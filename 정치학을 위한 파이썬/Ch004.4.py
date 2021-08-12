@@ -1,3 +1,5 @@
+# 통계청 API를 이용한 데이터 추출
+
 import requests
 import json
 
