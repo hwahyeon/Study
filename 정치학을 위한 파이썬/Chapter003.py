@@ -29,8 +29,13 @@ html = req.content
 # Data analysis
 soup = BeautifulSoup(html, 'html.parser')
 member_list = soup.select('.memberna_list dl dt a')
+'''
+<div class="memberna_list"> 하위에 있는 일반 태그 <dl> <dt> <a>에서
+<a> 태그에 놓여 있는 모든 정보를 가져옴
+'''
 
 with open('member_list.csv', 'w') as f:
+    # 저장할 파일을 쓸 수 있는 형태(w)로 열고, 객체 f를 생성
     csv_writer = csv.writer(f)
 
     for member in member_list:
@@ -41,10 +46,14 @@ with open('member_list.csv', 'w') as f:
         id_href = member['href']
 
         pattern = re.search(r'\d+', id_href)
+        # re.search(정규표현식, 탐색하는 대상)
+        # re.search는 해당 식의 존재 여부에 따라 True or False를 반환함
         if pattern:
             mem_id = pattern.group(0)
         else:
             mem_id = None
+        # pattern이 T면 mem_id에 넣고, F이면 None값을 넣으라는 뜻.
+
 
         # Pics of Congress
         pic = open('photo/{}.jpg'.format(mem_id),'wb')
