@@ -10,6 +10,6 @@
 |003|정치학을 위한 파이썬|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석|
 |004|[파이썬을 파이썬답게](https://github.com/hwahyeon/Study/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C)|[강의 소개](https://programmers.co.kr/learn/courses/4008)||
 |005|코딩 인터뷰 퀘스천|[책 소개](https://www.youngjin.com/book/book_detail.asp?prod_cd=9788931447842&seq=5462&cate_cd=1&child_cate_cd=10&goPage=1&orderByCd=1&searchType=Y&keyword1=%C4%DA%B5%F9%20%C0%CE%C5%CD%BA%E4)<br>· 알고리즘<br>· 기타 컴퓨터과학|
-|006|모던 웹을 위한 HTML5+CSS3 바이블|||
+|006|모던 웹을 위한 HTML5+CSS3 바이블|[책 소개]|· HTML5 + CSS3를 사용한 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션|
 |007|핸즈온 머신러닝 2판|||
 |008|함수형 언어 산책|||
