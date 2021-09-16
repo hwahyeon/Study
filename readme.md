@@ -13,3 +13,4 @@
 |006|모던 웹을 위한 HTML5+CSS3 바이블|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 + CSS3를 사용한 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
 |007|핸즈온 머신러닝 2판|[책 소개] [강의 소개]||
 |008|함수형 언어 산책|[책 소개]함수형 언어 기초 실습<br /> Emacs, LSIP, Clojure, Haskell, Scala, Elixir<br /> Apache Hadoop MapReduce, Apache Spark, Apache Flink||
+|009|Deep Learning Cookbook|[책 소개]||
