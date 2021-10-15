@@ -4,7 +4,7 @@
 * 실습이 없는 책이나 강의는 여기에 기록하지 않는다.
 * 실습을 기준으로 한 새로운 프로젝트는 다른 repository에 저장한다.
 
-|ID|제목|학습 |완료|
+|ID|제목|학습 키워드|완료|
 |:---|:---|:---|:---|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/Study/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C)|[강의 소개](https://programmers.co.kr/learn/courses/4008)||
 |002|정치학을 위한 파이썬|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석|
