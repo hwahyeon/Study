@@ -5,7 +5,7 @@
 * 실습을 토대로 한 연습, 모방 프로젝트 따위는 다른 repository에 저장한다.
 * 규모가 방대할 경우, 다른 repository에 저장하고 목록에만 기재한다.
 
-|ID|제목|학습 키워드|완료|
+|ID|제목|학습 내용|완료|
 |:---|:---|:---|:---|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/Study/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C)|[강의 소개](https://programmers.co.kr/learn/courses/4008)||
 |002|정치학을 위한 파이썬|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석|
