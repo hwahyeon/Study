@@ -9,7 +9,7 @@
 |:---|:---|:---|:---|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/Study/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C)|[강의 소개](https://programmers.co.kr/learn/courses/4008)||
 |002|정치학을 위한 파이썬|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석|
-|003|[2021 AI 온라인 교육과정](https://github.com/hwahyeon/Study/tree/main/2021%20AI%20%EC%8B%A4%EB%AC%B4%20%EC%9D%91%EC%9A%A9%20%EA%B3%BC%EC%A0%95)|[강의 소개](https://2021nipa.elice.io/tracks/1329)<br>· 머신러닝<br>· 딥러닝<br>· 산업별 AI혁신 사례<br>· 산업 데이터를 활용한 인공지능 프로젝트<br>· 2021 AI 실무 기본 과정 일부||
+|003|[2021 NIPA AI 온라인 교육](https://github.com/hwahyeon/Study/tree/main/2021%20NIPA%20AI%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B5%90%EC%9C%A1)|[강의 소개](https://2021nipa.elice.io/tracks/1329)<br>· 머신러닝<br>· 딥러닝<br>· 산업별 AI혁신 사례<br>· 산업 데이터를 활용한 인공지능 프로젝트||
 |004|WEB1 - HTML & Internet|[강의 소개](https://opentutorials.org/module/3135)<br>· HTML<br>· 웹 서버 운영||
 |005|WEB2 - CSS|[강의 소개](https://opentutorials.org/course/3086)<br>· HTML<br>· 웹 서버 운영||
 |005|WEB2 - JavaScript|[강의 소개](https://opentutorials.org/course/3085)<br>· HTML<br>· 웹 서버 운영||
