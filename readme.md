@@ -11,7 +11,7 @@
 |002|정치학을 위한 파이썬|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석|
 |003|[2021 NIPA AI 온라인 교육](https://github.com/hwahyeon/Study/tree/main/2021%20NIPA%20AI%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B5%90%EC%9C%A1)|[강의 소개](https://2021nipa.elice.io/tracks/1293/info)<br>· 머신러닝<br>· 딥러닝<br>· 산업별 AI혁신 사례<br>· 산업 데이터를 활용한 인공지능 프로젝트||
 |004|WEB1 - HTML & Internet|[강의 소개](https://opentutorials.org/module/3135)<br>· HTML<br>· 웹 서버 운영||
-|005|WEB2 - CSS|[강의 소개](https://opentutorials.org/course/3086)<br>· HTML<br>· 웹 서버 운영||
+|005|WEB2 - CSS|[강의 소개](https://opentutorials.org/course/3086)<br>· CSS||
 |005|WEB2 - JavaScript|[강의 소개](https://opentutorials.org/course/3085)<br>· HTML<br>· 웹 서버 운영||
 |005|WEB2 - Python|[강의 소개](https://opentutorials.org/course/3256)<br>· HTML<br>· 웹 서버 운영||
 |005|WEB2 - PHP|[강의 소개](https://opentutorials.org/course/3130)<br>· HTML<br>· 웹 서버 운영||
