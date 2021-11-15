@@ -17,6 +17,7 @@
 |005|WEB2 - JavaScript|[강의 소개](https://opentutorials.org/course/3085)<br>· HTML<br>· 웹 서버 운영||
 |005|WEB2 - Python|[강의 소개](https://opentutorials.org/course/3256)<br>· HTML<br>· 웹 서버 운영||
 |005|WEB2 - PHP|[강의 소개](https://opentutorials.org/course/3130)<br>· HTML<br>· 웹 서버 운영||
+|001|웹디자인 기능사||
 |001|처음 시작하는 정규표현식|
 |002|모두의 알고리즘 with 파이썬|[책 소개](https://www.gilbut.co.kr/book/view?bookcode=BN001731&keyword=%EB%AA%A8%EB%91%90%EC%9D%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20WITH%20%ED%8C%8C%EC%9D%B4%EC%8D%AC&collection=GB_BOOK)<br>· 재귀 호출<br>· 탐색과 정렬<br>· 자료구조||
 |001|이것이 취업을 위한 코딩 테스트다 with 파이썬|||
