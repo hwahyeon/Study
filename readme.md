@@ -6,7 +6,7 @@
 * 규모가 방대할 경우, 다른 repository에 저장하고 목록에만 기재한다.
 
 |ID|제목|학습 내용|완료|
-|:---|:---|:---|:---|
+|:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/Study/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C)|[강의 소개](https://programmers.co.kr/learn/courses/4008)|○|
 |002|정치학을 위한 파이썬|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석|
 |003|[2021 NIPA AI 온라인 교육](https://github.com/hwahyeon/Study/tree/main/2021%20NIPA%20AI%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B5%90%EC%9C%A1)|[강의 소개](https://2021nipa.elice.io/tracks/1293/info)<br>· 머신러닝<br>· 딥러닝<br>· 산업별 AI혁신 사례<br>· 산업 데이터를 활용한 인공지능 프로젝트||
