@@ -13,6 +13,7 @@
 |004|[WEB1 - HTML & Internet](https://github.com/hwahyeon/Study/tree/main/WEB1%20-%20HTML%20%26%20Internet)|[강의 소개](https://opentutorials.org/module/3135)<br>· HTML<br>· 웹 서버 운영(bitnami)|○|
 |005|WEB2 - CSS|[강의 소개](https://opentutorials.org/course/3086)<br>· CSS||
 |006|모던 웹을 위한 HTML5+CSS3 바이블|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 + CSS3를 사용한 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
+|005|Hello, JavaScript!|[강의 소개](https://programmers.co.kr/learn/courses/3)<br>· JavaScript<br>· 프론트엔드||
 |001|가장 쉬운 딥러닝 입문 교실||
 |005|WEB2 - JavaScript|[강의 소개](https://opentutorials.org/course/3085)<br>· HTML<br>· 웹 서버 운영||
 |005|WEB2 - Python|[강의 소개](https://opentutorials.org/course/3256)<br>· HTML<br>· 웹 서버 운영||
