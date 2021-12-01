@@ -13,8 +13,11 @@ print(is_palindrome("토마토"))
 print(is_palindrome("kayak"))
 print(is_palindrome("hello"))
 
-
-#반드시 for문을 사용하라는 조건 이행 시 내 풀이
+'''
+반드시 for문을 사용하셔야 합니다.
+append, insert 메소드와 del 함수를 사용하면 안됩니다.
+'''
+#내 풀이
 def is_palindrome(word):
     cnt = 0
     for i, j in zip(word, word[::-1]):
