@@ -9,10 +9,11 @@
 |:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/Study/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C)|[강의 소개](https://programmers.co.kr/learn/courses/4008)|○|
 |002|[WEB1 - HTML & Internet](https://github.com/hwahyeon/Study/tree/main/WEB1%20-%20HTML%20%26%20Internet)|[강의 소개](https://opentutorials.org/module/3135)<br>· HTML|○|
+|003|모던 웹을 위한 HTML5+CSS3 바이블|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 + CSS3를 사용한 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
 |002|정치학을 위한 파이썬|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석|
 |003|[2021 NIPA AI 온라인 교육](https://github.com/hwahyeon/2021_NIPA_AI)|[강의 소개](https://2021nipa.elice.io/tracks/1293/info)<br>· 머신러닝<br>· 딥러닝<br>· 산업별 AI혁신 사례<br>· 산업 데이터를 활용한 인공지능 프로젝트||
 |005|[WEB2 - CSS](https://github.com/hwahyeon/Study/tree/main/WEB2%20-%20CSS)|[강의 소개](https://opentutorials.org/course/3086)<br>· CSS||
-|006|모던 웹을 위한 HTML5+CSS3 바이블|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 + CSS3를 사용한 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
+
 |007|[Hello, JavaScript!](https://github.com/hwahyeon/Study/tree/main/Hello%2C%20JavaScript!)|[강의 소개](https://programmers.co.kr/learn/courses/3)<br>· JavaScript||
 |008|자바스크립트와 웹 프론트엔드|[강의 소개](https://programmers.co.kr/learn/courses/10)<br>· JavaScript<br>· 프론트엔드||
 |001|가장 쉬운 딥러닝 입문 교실||
