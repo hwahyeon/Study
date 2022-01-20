@@ -11,6 +11,7 @@
 |002|[WEB1 - HTML & Internet](https://github.com/hwahyeon/Study/tree/main/WEB1%20-%20HTML%20%26%20Internet)|[강의 소개](https://opentutorials.org/module/3135)<br>· HTML|○|
 |003|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/Study/tree/main/%EB%AA%A8%EB%8D%98%20%EC%9B%B9%EC%9D%84%20%EC%9C%84%ED%95%9C%20HTML5%2BCSS3%20%EB%B0%94%EC%9D%B4%EB%B8%94)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 + CSS3를 사용한 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
 |004|파이썬 스킬 업|[책 소개](https://www.gilbut.co.kr/book/view?bookcode=BN003100#bookData)<br>· 파이썬 스킬 업||
+|005|[Python(파이썬) 기초부터 실무까지 제대로 배우기](https://github.com/hwahyeon/Study/tree/main/Python(%ED%8C%8C%EC%9D%B4%EC%8D%AC)%20%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0%20%EC%8B%A4%EB%AC%B4%EA%B9%8C%EC%A7%80%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EA%B8%B0)|[강의 소개](https://github.com/hwahyeon/Study/blob/main/Python(%ED%8C%8C%EC%9D%B4%EC%8D%AC)%20%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0%20%EC%8B%A4%EB%AC%B4%EA%B9%8C%EC%A7%80%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EA%B8%B0/readme.md)<br>· 클래스 중심의 복습 위주|<br>· |
 |002|정치학을 위한 파이썬|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석|
 |003|[2021 NIPA AI 온라인 교육](https://github.com/hwahyeon/2021_NIPA_AI)|[강의 소개](https://2021nipa.elice.io/tracks/1293/info)<br>· 머신러닝<br>· 딥러닝<br>· 산업별 AI혁신 사례<br>· 산업 데이터를 활용한 인공지능 프로젝트||
 |005|[WEB2 - CSS](https://github.com/hwahyeon/Study/tree/main/WEB2%20-%20CSS)|[강의 소개](https://opentutorials.org/course/3086)<br>· CSS||
@@ -20,7 +21,6 @@
 |005|WEB2 - JavaScript|[강의 소개](https://opentutorials.org/course/3085)<br>· HTML<br>· 웹 서버 운영||
 |005|WEB2 - Python|[강의 소개](https://opentutorials.org/course/3256)<br>· HTML<br>· 웹 서버 운영||
 |005|WEB2 - PHP|[강의 소개](https://opentutorials.org/course/3130)<br>· HTML<br>· 웹 서버 운영||
-|001|[Python(파이썬) 기초부터 실무까지 제대로 배우기](https://github.com/hwahyeon/Study/tree/main/Python(%ED%8C%8C%EC%9D%B4%EC%8D%AC)%20%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0%20%EC%8B%A4%EB%AC%B4%EA%B9%8C%EC%A7%80%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EA%B8%B0)||
 |001|처음 시작하는 정규표현식|
 |002|모두의 알고리즘 with 파이썬|[책 소개](https://www.gilbut.co.kr/book/view?bookcode=BN001731&keyword=%EB%AA%A8%EB%91%90%EC%9D%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20WITH%20%ED%8C%8C%EC%9D%B4%EC%8D%AC&collection=GB_BOOK)<br>· 재귀 호출<br>· 탐색과 정렬<br>· 자료구조||
 |001|이것이 취업을 위한 코딩 테스트다 with 파이썬|||
