@@ -9,7 +9,7 @@
 |:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/Study/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C)|[강의 소개](https://programmers.co.kr/learn/courses/4008)|○|
 |002|[WEB1 - HTML & Internet](https://github.com/hwahyeon/Study/tree/main/WEB1%20-%20HTML%20%26%20Internet)|[강의 소개](https://opentutorials.org/module/3135)<br>· HTML|○|
-|003|[Hello, JavaScript!](https://github.com/hwahyeon/Study/tree/main/Hello%2C%20JavaScript!)|[강의 소개](https://programmers.co.kr/learn/courses/3)<br>· JavaScript||
+|003|[Hello, JavaScript!](https://github.com/hwahyeon/Study/tree/main/Hello%2C%20JavaScript!)|[강의 소개](https://programmers.co.kr/learn/courses/3)<br>· JavaScript|○|
 |008|자바스크립트와 웹 프론트엔드|[강의 소개](https://programmers.co.kr/learn/courses/10)<br>· JavaScript<br>· 프론트엔드||
 |003|[WEB2 - CSS](https://github.com/hwahyeon/Study/tree/main/WEB2%20-%20CSS)|[강의 소개](https://opentutorials.org/course/3086)<br>· CSS||
 |004|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/Study/tree/main/%EB%AA%A8%EB%8D%98%20%EC%9B%B9%EC%9D%84%20%EC%9C%84%ED%95%9C%20HTML5%2BCSS3%20%EB%B0%94%EC%9D%B4%EB%B8%94)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 + CSS3를 사용한 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
