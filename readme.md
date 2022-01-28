@@ -12,7 +12,7 @@
 |003|[Hello, JavaScript!](https://github.com/hwahyeon/Study/tree/main/Hello%2C%20JavaScript!)|[강의 소개](https://programmers.co.kr/learn/courses/3)<br>· JavaScript|○|
 |008|자바스크립트 this 정복하기|[강의 소개](https://programmers.co.kr/learn/courses/206)<br>· JavaScript this||
 |008|자바스크립트와 웹 프론트엔드|[강의 소개](https://programmers.co.kr/learn/courses/10)<br>· JavaScript<br>· 프론트엔드||
-|006|[Python(파이썬) 기초부터 실무까지 제대로 배우기](https://github.com/hwahyeon/pythonAtoZ)|[강의 소개](https://github.com/hwahyeon/pythonAtoZ/blob/main/README.md)<br>· 객체지향 프로그래밍<br>· GUI 프로그래밍<br>· 람다/스레드/DB연동<br>· 소규모 프로젝트||
+|006|[Python(파이썬) 기초부터 실무까지 제대로 배우기](https://github.com/hwahyeon/Study_private/tree/main/Python(%ED%8C%8C%EC%9D%B4%EC%8D%AC)%20%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0%20%EC%8B%A4%EB%AC%B4%EA%B9%8C%EC%A7%80%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EA%B8%B0)|[강의 소개](https://github.com/hwahyeon/Study_private/blob/main/Python(%ED%8C%8C%EC%9D%B4%EC%8D%AC)%20%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0%20%EC%8B%A4%EB%AC%B4%EA%B9%8C%EC%A7%80%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EA%B8%B0/readme.md)<br>· 객체지향 프로그래밍<br>· GUI 프로그래밍<br>· 람다/스레드/DB연동<br>· 소규모 프로젝트||
 |003|[WEB2 - CSS](https://github.com/hwahyeon/Study/tree/main/WEB2%20-%20CSS)|[강의 소개](https://opentutorials.org/course/3086)<br>· CSS||
 |004|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/Study/tree/main/%EB%AA%A8%EB%8D%98%20%EC%9B%B9%EC%9D%84%20%EC%9C%84%ED%95%9C%20HTML5%2BCSS3%20%EB%B0%94%EC%9D%B4%EB%B8%94)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 + CSS3를 사용한 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
 |005|WEB2 - Python|[강의 소개](https://opentutorials.org/course/3256)<br>· HTML<br>· 웹 서버 운영||
