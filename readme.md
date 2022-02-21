@@ -10,7 +10,6 @@
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/Study/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C)|[강의 소개](https://programmers.co.kr/learn/courses/4008)|○|
 |002|[WEB1 - HTML & Internet](https://github.com/hwahyeon/Study/tree/main/WEB1%20-%20HTML%20%26%20Internet)|[강의 소개](https://opentutorials.org/module/3135)<br>· HTML|○|
 |003|[Hello, JavaScript!](https://github.com/hwahyeon/Study/tree/main/Hello%2C%20JavaScript!)|[강의 소개](https://programmers.co.kr/learn/courses/3)<br>· JavaScript|○|
-|008|자바스크립트 this 정복하기|[강의 소개](https://programmers.co.kr/learn/courses/206)<br>· JavaScript this||
 |008|자바스크립트와 웹 프론트엔드|[강의 소개](https://programmers.co.kr/learn/courses/10)<br>· JavaScript<br>· 프론트엔드||
 |006|[Python(파이썬) 기초부터 실무까지 제대로 배우기](https://github.com/hwahyeon/Study_private/tree/main/Python(%ED%8C%8C%EC%9D%B4%EC%8D%AC)%20%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0%20%EC%8B%A4%EB%AC%B4%EA%B9%8C%EC%A7%80%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EA%B8%B0)|[강의 소개](https://github.com/hwahyeon/Study_private/blob/main/Python(%ED%8C%8C%EC%9D%B4%EC%8D%AC)%20%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0%20%EC%8B%A4%EB%AC%B4%EA%B9%8C%EC%A7%80%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EA%B8%B0/readme.md)<br>· 객체지향 프로그래밍<br>· GUI 프로그래밍<br>· 람다/스레드/DB연동<br>· 소규모 프로젝트||
 |003|[WEB2 - CSS](https://github.com/hwahyeon/Study/tree/main/WEB2%20-%20CSS)|[강의 소개](https://opentutorials.org/course/3086)<br>· CSS||
