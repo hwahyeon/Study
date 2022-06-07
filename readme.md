@@ -12,7 +12,7 @@
 |003|[WEB2 - CSS](https://github.com/hwahyeon/Study/tree/main/WEB2%20-%20CSS)|[강의 소개](https://opentutorials.org/course/3086)<br>· CSS||
 |004|[Hello, JavaScript!](https://github.com/hwahyeon/Study/tree/main/Hello%2C%20JavaScript!)|[강의 소개](https://programmers.co.kr/learn/courses/3)<br>· JavaScript|○|
 |005|[바닐라 JS로 크롬 앱 만들기](https://github.com/hwahyeon/browserjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners)<br>· JavaScript|○|
-|006|[바닐라 JS로 그림판 만들기](https://github.com/hwahyeon/paintjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context||
+|006|[바닐라 JS로 그림판 만들기](https://github.com/hwahyeon/paintjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |007|[웹 표준 사이트 만들기(2019)](https://github.com/hwahyeon/lecture_wb/tree/main/01WEBSTANDARD)|[강의 소개](https://www.youtube.com/playlist?list=PL4UVBBIc6giKixok-bC7XVEx0ZFsngr5Z)<br>· 레이아웃<br>· 사이트 제작(메뉴/게시판/탭/팝업/푸터)<br>· 스크립트||
 |008|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/lecture_wb/tree/main/02RESPONSIVE)|[강의 소개](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· 반응형 레이아웃<br>· 반응형 사이트 제작(헤더/메뉴/게시판/블로그/팝업/푸터)<br>· 사이드 이펙트||
 |009|[Mouse Effect](https://github.com/hwahyeon/lecture_wb/tree/main/MouseEffect)|[강의 소개](https://www.youtube.com/watch?v=lNptKy93sf4&list=PL4UVBBIc6giI9zDQvx9z8CiRAh7WB8-3J)<br>· JavaScript<br>· Mouse Effect|△|
