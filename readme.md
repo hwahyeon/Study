@@ -20,3 +20,4 @@
 |011|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/Study/tree/main/%EB%98%91%EB%98%91%ED%95%9C%20%EC%BD%94%EB%93%9C%20%EC%9E%91%EC%84%B1%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[책 소개](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)<br>· 알고리즘<br>· Python||
 |012|[ReactJS로 영화 웹 서비스 만들기](https://github.com/hwahyeon/reactjs)|[강의 소개](https://nomadcoders.co/react-for-beginners)<br>· React<br>· Axios<br>· React Router||
 |013|[React Native로 2개의 앱 만들기]()|[강의 소개](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||
+|014|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/learn_REX)|[책 소개](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)<br>· 정규 표현식||
