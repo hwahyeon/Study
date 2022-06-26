@@ -21,6 +21,9 @@
 |012|[ReactJS로 영화 웹 서비스 만들기](https://github.com/hwahyeon/reactjs)<br><br>↳[(ReactJS 단위 변환기)](https://github.com/hwahyeon/reactjs/tree/main/UnitsConverter) |[강의 소개](https://nomadcoders.co/react-for-beginners)<br>· React<br>· Axios<br>· React Router<br>※ React (Using useState) / React (Using class)||
 |013|[React Native로 2개의 앱 만들기]()|[강의 소개](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||
 |014|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/learn_REX)|[책 소개](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)<br>· 정규 표현식||
-|015|코딩 인터뷰 퀘스천|[책 소개](https://www.youngjin.com/book/book_detail.asp?prod_cd=9788931447842&seq=5462&cate_cd=1&child_cate_cd=10&goPage=1&orderByCd=1&searchType=Y&keyword1=%C4%DA%B5%F9%20%C0%CE%C5%CD%BA%E4)<br>· 알고리즘<br>· 기타 컴퓨터과학|
-|016|모두의 알고리즘 with 파이썬|[책 소개](https://www.gilbut.co.kr/book/view?bookcode=BN001731&keyword=%EB%AA%A8%EB%91%90%EC%9D%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20WITH%20%ED%8C%8C%EC%9D%B4%EC%8D%AC&collection=GB_BOOK)<br>· 재귀 호출<br>· 탐색과 정렬<br>· 자료구조||
-|017|정치학을 위한 파이썬|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석|
+|015|정치학을 위한 파이썬|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석|
+|016|코딩 인터뷰 퀘스천|[책 소개](https://www.youngjin.com/book/book_detail.asp?prod_cd=9788931447842&seq=5462&cate_cd=1&child_cate_cd=10&goPage=1&orderByCd=1&searchType=Y&keyword1=%C4%DA%B5%F9%20%C0%CE%C5%CD%BA%E4)<br>· 알고리즘<br>· 기타 컴퓨터과학|
+|017|모두의 알고리즘 with 파이썬|[책 소개](https://www.gilbut.co.kr/book/view?bookcode=BN001731&keyword=%EB%AA%A8%EB%91%90%EC%9D%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20WITH%20%ED%8C%8C%EC%9D%B4%EC%8D%AC&collection=GB_BOOK)<br>· 재귀 호출<br>· 탐색과 정렬<br>· 자료구조||
+|018|모두의 알고리즘 with 자바스크립트|[책 소개](https://www.gilbut.co.kr/book/view?bookcode=BN002328&keyword=%EB%AA%A8%EB%91%90%EC%9D%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20with%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8&collection=GB_BOOK)<br>· 알고리즘||
+|019|Typescript로 블록체인 만들기|[강의 소개](https://nomadcoders.co/typescript-for-beginners)<br>· Typescript<br>· TSConfig<br>· TSNode|
+
