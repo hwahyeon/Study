@@ -27,4 +27,5 @@
 |018|[Typescript로 블록체인 만들기](https://github.com/hwahyeon/TS_blockchain)<br/>↳ [타입스크립트 챌린지](https://github.com/hwahyeon/Study_private/tree/main/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%B1%8C%EB%A6%B0%EC%A7%80)|[강의 소개](https://nomadcoders.co/typescript-for-beginners) / [챌린지 소개](https://nomadcoders.co/typescript-challenge)<br>· Typescript<br>· TSConfig<br>· TSNode|○<br>[ⓒ](https://nomadcoders.co/certs/d19dbd4f-5b7e-4e1d-a129-67dec33bec9b)|
 |019|[Python으로 웹 스크래퍼 만들기(2020)](https://github.com/hwahyeon/Python_Nomad)<br/>↳ [파이썬 챌린지](https://github.com/hwahyeon/Study_private/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80)|[강의 소개](https://nomadcoders.co/python-for-beginners) / [챌린지 소개](https://nomadcoders.co/python-challenge)<br>· Scrapping<br>· Django<br>· Flask||
 |020|[바닐라 JS로 그림 앱 만들기(2022)](https://github.com/hwahyeon/mememakerjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context||
+|021|[Python(파이썬) 기초부터 실무까지 제대로 배우기](https://github.com/hwahyeon/learn_py)|<br>· 객체지향 프로그래밍<br>· GUI 프로그래밍<br>· 람다/스레드/DB연동<br>· 소규모 프로젝트||
 
