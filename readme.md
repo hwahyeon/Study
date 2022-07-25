@@ -28,4 +28,4 @@
 |019|[Python으로 웹 스크래퍼 만들기(2020)](https://github.com/hwahyeon/Python_Nomad)<br/>↳ [파이썬 챌린지](https://github.com/hwahyeon/Study_private/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80)|[강의 소개](https://nomadcoders.co/python-for-beginners) / [챌린지 소개](https://nomadcoders.co/python-challenge)<br>· Scrapping<br>· Django<br>· Flask||
 |020|[바닐라 JS로 그림 앱 만들기(2022)](https://github.com/hwahyeon/mememakerjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |021|[Python(파이썬) 기초부터 실무까지 제대로 배우기](https://github.com/hwahyeon/learn_py)|[강의 소개](https://github.com/hwahyeon/learn_py/blob/main/README.md)<br>· 객체지향 프로그래밍<br>· GUI 프로그래밍<br>· 람다/스레드/DB연동<br>· 소규모 프로젝트||
-
+|022|[NextJS 시작하기]()|[강의 소개](https://nomadcoders.co/nextjs-fundamentals)<br>· NextJS||
