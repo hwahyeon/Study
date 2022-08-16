@@ -32,3 +32,4 @@
 |023|[실전형 리액트 Hooks 10개]()|[강의 소개](https://nomadcoders.co/react-hooks-introduction)<br>· React<br>· useEffect<br>· useState<br>· NPM||
 |024|[트위터 클론코딩]()|[강의 소개](https://nomadcoders.co/nwitter)<br>· React Hooks<br>· React Router<br>· Firebase||
 |025|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/17skills)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B9288599157)<br>· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib||
+|026|[CSS Animation](https://github.com/hwahyeon/lecture_wb/tree/main/CSS_Animation)|[강의 소개](https://codepen.io/webstoryboy/)<br>· CSS Animtation||
