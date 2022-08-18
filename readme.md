@@ -28,4 +28,4 @@
 |019|[Python으로 웹 스크래퍼 만들기(2020)](https://github.com/hwahyeon/Python_Nomad)<br/>↳ [파이썬 챌린지](https://github.com/hwahyeon/Study_private/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80)|[강의 소개](https://nomadcoders.co/python-for-beginners) / [챌린지 소개](https://nomadcoders.co/python-challenge)<br>· Scrapping<br>· Django<br>· Flask|[ⓒ](https://nomadcoders.co/certs/528f75a1-57a6-498a-94af-b2a718cf62fa)|
 |020|[바닐라 JS로 그림 앱 만들기(2022)](https://github.com/hwahyeon/mememakerjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |021|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/17skills)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B9288599157)<br>· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib||
-|022|[CSS Animation](https://github.com/hwahyeon/lecture_wb/tree/main/CSS_Animation)|[강의 소개](https://www.youtube.com/Webstoryboy)<br>· CSS Animtation||
+|022|[CSS Animation](https://github.com/hwahyeon/lecture_wb/tree/main/CSS_Animation)|[강의 소개](https://www.youtube.com/Webstoryboy)<br>· CSS Animtation|○|
