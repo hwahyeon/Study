@@ -16,7 +16,7 @@
 |007|[웹 표준 사이트 만들기(2019)](https://github.com/hwahyeon/lecture_wb/tree/main/01WEBSTANDARD)|[강의 소개](https://www.youtube.com/playlist?list=PL4UVBBIc6giKixok-bC7XVEx0ZFsngr5Z)<br>· 레이아웃<br>· 사이트 제작(메뉴/게시판/탭/팝업/푸터)<br>· 스크립트|○|
 |008|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/lecture_wb/tree/main/02RESPONSIVE)|[강의 소개](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· 반응형 레이아웃<br>· 반응형 사이트 제작(헤더/메뉴/게시판/블로그/팝업/푸터)<br>· 사이드 이펙트||
 |009|[Mouse Effect](https://github.com/hwahyeon/lecture_wb/tree/main/MouseEffect)|[강의 소개](https://www.youtube.com/watch?v=lNptKy93sf4&list=PL4UVBBIc6giI9zDQvx9z8CiRAh7WB8-3J)<br>· JavaScript<br>· Mouse Effect|○|
-|010|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/Study/tree/main/%EB%AA%A8%EB%8D%98%20%EC%9B%B9%EC%9D%84%20%EC%9C%84%ED%95%9C%20HTML5+CSS3%20%EB%B0%94%EC%9D%B4%EB%B8%94)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 / CSS3 / 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
+|010|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/HTML5CSS3)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 / CSS3 / 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
 |011|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/Learning_Algorithms_py)|[책 소개](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)<br>· 알고리즘<br>· Python||
 |012|[ReactJS로 영화 웹 서비스 만들기](https://github.com/hwahyeon/reactjs)<br>↳ [(단위 변환기)](https://github.com/hwahyeon/reactjs/tree/main/UnitsConverter) |[강의 소개](https://nomadcoders.co/react-for-beginners)<br>· React<br>· Axios<br>· React Router<br>※ React (New style) / React (Old style)||
 |013|[React Native로 2개의 앱 만들기]()|[강의 소개](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||
