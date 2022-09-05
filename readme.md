@@ -18,7 +18,7 @@
 |009|[Mouse Effect](https://github.com/hwahyeon/lecture_wb/tree/main/MouseEffect)|[강의 소개](https://www.youtube.com/watch?v=lNptKy93sf4&list=PL4UVBBIc6giI9zDQvx9z8CiRAh7WB8-3J)<br>· JavaScript<br>· Mouse Effect|○|
 |010|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/HTML5CSS3)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 / CSS3 / 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
 |011|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/Learning_Algorithms_py)|[책 소개](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)<br>· 알고리즘<br>· Python||
-|012|[ReactJS로 영화 웹 서비스 만들기](https://github.com/hwahyeon/reactjs)<br>↳ [(단위 변환기)](https://github.com/hwahyeon/reactjs/tree/main/UnitsConverter) |[강의 소개](https://nomadcoders.co/react-for-beginners)<br>· React<br>· Axios<br>· React Router<br>※ React (New style) / React (Old style)||
+|012|[ReactJS로 영화 웹 서비스 만들기](https://github.com/hwahyeon/reactjs)<br>↳ [(단위 변환기)](https://github.com/hwahyeon/reactjs/tree/main/UnitsConverter) |[강의 소개](https://nomadcoders.co/react-for-beginners)<br>· React<br>· Axios<br>· React Router<br>※ React (New style) / React (Old style)|△|
 |013|[React Native로 2개의 앱 만들기]()|[강의 소개](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||
 |014|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/learn_REX)|[책 소개](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)<br>· 정규 표현식|○|
 |015|[정치학을 위한 파이썬](https://github.com/hwahyeon/politics_py)|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석<br>· 그래프|○|
