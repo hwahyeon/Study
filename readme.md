@@ -27,3 +27,6 @@
 |018|[바닐라 JS로 그림 앱 만들기(2022)](https://github.com/hwahyeon/mememakerjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |019|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/17skills)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B9288599157)<br>· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib||
 |020|[CSS Animation](https://github.com/hwahyeon/lecture_wb/tree/main/CSS_Animation)|[강의 소개](https://www.youtube.com/Webstoryboy)<br>· CSS Animtation|○|
+|021|[실전형 리액트 Hooks 10개]()|[강의 소개](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks||
+|022|[React Native로 2개의 앱 만들기]()|[강의 소개](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||
+|023|[트위터 클론코딩]()|[강의 소개](https://nomadcoders.co/nwitter)<br>· Firebase<br>· NoSQL Realtime, Query, Filter<br>· Google Cloud Storage||
