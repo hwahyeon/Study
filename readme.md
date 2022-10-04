@@ -8,7 +8,7 @@
 |ID|제목|학습 내용|완료|
 |:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/Study/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C)|[강의 소개](https://programmers.co.kr/learn/courses/4008)<br>· Pythonic coding|○|
-|002|[WEBn - HTML & Internet](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||
+|002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||
 |003|[SWExpertAcademy](https://github.com/hwahyeon/SWExpertAcademy)|[강의 소개]()<br>||
 |004|[Hello, JavaScript!](https://github.com/hwahyeon/Study/tree/main/Hello%2C%20JavaScript!)|[강의 소개](https://programmers.co.kr/learn/courses/3)<br>· JavaScript|○|
 |005|[바닐라 JS로 크롬 앱 만들기](https://github.com/hwahyeon/browserjs)<br/>↳ [바닐라JS 챌린지](https://github.com/hwahyeon/Study_private/tree/main/%EB%B0%94%EB%8B%90%EB%9D%BCJS%20%EC%B1%8C%EB%A6%B0%EC%A7%80)|[강의 소개](https://nomadcoders.co/javascript-for-beginners) / [챌린지 소개](https://nomadcoders.co/vanillajs-challenge)<br>· JavaScript|○<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
