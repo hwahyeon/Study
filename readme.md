@@ -31,3 +31,4 @@
 |022|[React Native로 2개의 앱 만들기]()|[강의 소개](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||
 |023|[트위터 클론코딩]()|[강의 소개](https://nomadcoders.co/nwitter)<br>· Firebase<br>· NoSQL Realtime, Query, Filter<br>· Google Cloud Storage||
 |024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/lecture_wb/tree/main/04MOBILE)|[강의 소개](https://www.youtube.com/playlist?list=PL4UVBBIc6giJfhwzLnjDbyXL9tG_cHIo1)<br>· Figma<br>· 모바일 사이트 제작||
+|025|[고등학교수학으로이해하는컴퓨터](https://github.com/hwahyeon/cmpformath)|[책 소개](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480D181026670)<br>· Firebase<br>· 수학||
