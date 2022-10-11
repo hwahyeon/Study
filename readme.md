@@ -9,7 +9,7 @@
 |:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/Study/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C)|[강의 소개](https://programmers.co.kr/learn/courses/4008)<br>· Pythonic coding|○|
 |002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||
-|003|[SWExpertAcademy](https://github.com/hwahyeon/SWExpertAcademy)|[강의 소개]()<br>||
+|003|[SW 코딩 훈련 트랙](https://github.com/hwahyeon/2022SW_elice)|[강의 소개](https://2022aionline.elice.io/tracks/2515/info)<br>· Node.js / Express.js<br>· MongoDB||
 |004|[Hello, JavaScript!](https://github.com/hwahyeon/Study/tree/main/Hello%2C%20JavaScript!)|[강의 소개](https://programmers.co.kr/learn/courses/3)<br>· JavaScript|○|
 |005|[바닐라 JS로 크롬 앱 만들기](https://github.com/hwahyeon/browserjs)<br/>↳ [바닐라JS 챌린지](https://github.com/hwahyeon/Study_private/tree/main/%EB%B0%94%EB%8B%90%EB%9D%BCJS%20%EC%B1%8C%EB%A6%B0%EC%A7%80)|[강의 소개](https://nomadcoders.co/javascript-for-beginners) / [챌린지 소개](https://nomadcoders.co/vanillajs-challenge)<br>· JavaScript|○<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
 |006|[바닐라 JS로 그림판 만들기](https://github.com/hwahyeon/paintjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
@@ -32,3 +32,4 @@
 |023|[트위터 클론코딩]()|[강의 소개](https://nomadcoders.co/nwitter)<br>· Firebase<br>· NoSQL Realtime, Query, Filter<br>· Google Cloud Storage||
 |024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/lecture_wb/tree/main/04MOBILE)|[강의 소개](https://www.youtube.com/playlist?list=PL4UVBBIc6giJfhwzLnjDbyXL9tG_cHIo1)<br>· Figma<br>· 모바일 사이트 제작||
 |025|[고등학교수학으로이해하는컴퓨터](https://github.com/hwahyeon/cmpformath)|[책 소개](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480D181026670)<br>· Firebase<br>· 수학||
+|026|[SWExpertAcademy](https://github.com/hwahyeon/SWExpertAcademy)|[강의 소개]()<br>||
