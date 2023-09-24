@@ -6,13 +6,13 @@
 ## 직무 기술 도서
 |No|제목|개요|완료|
 |:---|:---|:---|:---:|
-|013|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/learn-regex)|[책 소개](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)<br>· 정규 표현식|○|
-|014|[정치학을 위한 파이썬](https://github.com/hwahyeon/python-politics)|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석<br>· 그래프|○|
-|015|[모두의 알고리즘 with 파이썬]()|[책 소개](https://www.gilbut.co.kr/book/view?bookcode=BN001731&keyword=%EB%AA%A8%EB%91%90%EC%9D%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20WITH%20%ED%8C%8C%EC%9D%B4%EC%8D%AC&collection=GB_BOOK)<br>· 재귀 호출<br>· 탐색과 정렬<br>· 자료구조|○|
-|019|[학교에서 알려주지 않는 17가지 실무 개발 기술]()|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B9288599157)<br>· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib||
-|025|[고등학교수학으로이해하는컴퓨터]()|[책 소개](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480D181026670)<br>· Python<br>· 수학||
-|011|[똑똑한 코드 작성을 위한 실전 알고리즘]()|[책 소개](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)<br>· 알고리즘<br>· Python||
-|010|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/knou-html5)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 / CSS3 / 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
+|001|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/learn-regex)|[책 소개](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)<br>· 정규 표현식|○|
+|002|[정치학을 위한 파이썬](https://github.com/hwahyeon/python-politics)|[책 소개](https://knupress.com/book/book_view.php?no=250)<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석<br>· 그래프|○|
+|003|[모두의 알고리즘 with 파이썬]()|[책 소개](https://www.gilbut.co.kr/book/view?bookcode=BN001731&keyword=%EB%AA%A8%EB%91%90%EC%9D%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20WITH%20%ED%8C%8C%EC%9D%B4%EC%8D%AC&collection=GB_BOOK)<br>· 재귀 호출<br>· 탐색과 정렬<br>· 자료구조|○|
+|004|[학교에서 알려주지 않는 17가지 실무 개발 기술]()|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B9288599157)<br>· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib||
+|005|[고등학교수학으로이해하는컴퓨터]()|[책 소개](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480D181026670)<br>· Python<br>· 수학||
+|006|[똑똑한 코드 작성을 위한 실전 알고리즘]()|[책 소개](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)<br>· 알고리즘<br>· Python||
+|007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/knou-html5)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 / CSS3 / 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
 
 ## 직무 기술 강의
 |ID|제목|학습 내용|완료|
