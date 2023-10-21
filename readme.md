@@ -14,6 +14,7 @@
 |006|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/python-learning-algorithms)|[책 소개](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)<br>· 알고리즘<br>· Python||
 |007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/html5-css3)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 / CSS3 / 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
 |008|[Do it! 웹 사이트 따라 만들기]()|[책 소개](http://www.easyspub.co.kr/20_Menu/BookView/332/PUB)<br>· Ajax||
+[이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/hwahyeon/book-pycotest-guide)
 
 ## 직무 기술 강의
 |ID|제목|학습 내용|완료|
