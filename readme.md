@@ -22,7 +22,7 @@
 |:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/class-pylikepy)|· Pythonic coding||
 |002|[Hello, JavaScript!](https://github.com/hwahyeon/class-hello-js)|· JavaScript|○|
-|003|[바닐라 JS로 크롬 앱 만들기](https://github.com/hwahyeon/browserjs)|· JavaScript|○<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
+|003|[바닐라 JS로 크롬 앱 만들기](https://github.com/hwahyeon/browserjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners) / [챌린지 소개](https://nomadcoders.co/vanillajs-challenge)<br>· JavaScript|○<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
 ||||
 |002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||
 |003|[SW 코딩 훈련 트랙](https://github.com/hwahyeon/2022SW_elice)|[강의 소개](https://2022aionline.elice.io/tracks/2515/info)<br>· Node.js / Express.js<br>· MongoDB||
