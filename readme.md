@@ -22,10 +22,10 @@
 |:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/class-pylikepy)|· Pythonic coding||
 |002|[Hello, JavaScript!](https://github.com/hwahyeon/class-hello-js)|· JavaScript|○|
+|003|[바닐라 JS로 크롬 앱 만들기](https://github.com/hwahyeon/browserjs)|· JavaScript|○<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
 ||||
 |002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||
 |003|[SW 코딩 훈련 트랙](https://github.com/hwahyeon/2022SW_elice)|[강의 소개](https://2022aionline.elice.io/tracks/2515/info)<br>· Node.js / Express.js<br>· MongoDB||
-|005|[바닐라 JS로 크롬 앱 만들기](https://github.com/hwahyeon/browserjs)<br/>↳ [바닐라JS 챌린지](https://github.com/hwahyeon/Study_private/tree/main/%EB%B0%94%EB%8B%90%EB%9D%BCJS%20%EC%B1%8C%EB%A6%B0%EC%A7%80)|[강의 소개](https://nomadcoders.co/javascript-for-beginners) / [챌린지 소개](https://nomadcoders.co/vanillajs-challenge)<br>· JavaScript|○<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
 |006|[바닐라 JS로 그림판 만들기](https://github.com/hwahyeon/paintjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |007|[웹 표준 사이트 만들기(2019)](https://github.com/hwahyeon/lecture_wb/tree/main/01WEBSTANDARD)|[강의 소개](https://www.youtube.com/playlist?list=PL4UVBBIc6giKixok-bC7XVEx0ZFsngr5Z)<br>· 레이아웃<br>· 사이트 제작(메뉴/게시판/탭/팝업/푸터)<br>· 스크립트|○|
 |008|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/lecture_wb/tree/main/02RESPONSIVE)|[강의 소개](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· 반응형 레이아웃<br>· 반응형 사이트 제작(헤더/메뉴/게시판/블로그/팝업/푸터)<br>· 사이드 이펙트||
