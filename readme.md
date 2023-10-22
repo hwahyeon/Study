@@ -12,7 +12,7 @@
 |004|[학교에서 알려주지 않는 17가지 실무 개발 기술]()|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B9288599157)<br>· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib||
 |005|[고등학교수학으로이해하는컴퓨터]()|[책 소개](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480D181026670)<br>· Python<br>· 수학||
 |006|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/python-learning-algorithms)|[책 소개](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)<br>· 알고리즘<br>· Python||
-|007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/html5-css3)|[책 소개](https://hanbit.co.kr/store/books/look.php?p_code=B8371709349)<br>· HTML5 / CSS3 / 레이아웃 구성<br>· CSS3 변환 및 변형과 애니메이션||
+|007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/book-html5css3)|· HTML5 / CSS3 <br>· CSS3 변환 및 변형과 애니메이션||
 |008|[Do it! 웹 사이트 따라 만들기](https://github.com/hwahyeon/book-doit-website)|· Ajax <br>· CSS Animation <br>· JQuery||
 |009|[이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/hwahyeon/book-pycotest-guide)|· 알고리즘 <br>· Python||
 
