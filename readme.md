@@ -9,7 +9,7 @@
 |001|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/book-learn-regex)|· 정규 표현식|○|
 |002|[정치학을 위한 파이썬](https://github.com/hwahyeon/book-python-politics)|<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석<br>· 그래프|○|
 |003|[모두의 알고리즘 with 파이썬](https://github.com/hwahyeon/book-py-algoeveryone)|· 재귀 호출<br>· 탐색과 정렬<br>· 자료구조|○|
-|004|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/book-17skills)|· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib||
+|004|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/book-17skills)|· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib<br>· Web||
 |005|[고등학교수학으로이해하는컴퓨터]()|[책 소개](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480D181026670)<br>· Python<br>· 수학||
 |006|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/python-learning-algorithms)|[책 소개](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)<br>· 알고리즘<br>· Python||
 |007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/book-html5css3)|· HTML5 / CSS3 <br>· CSS3 변환 및 변형과 애니메이션||
