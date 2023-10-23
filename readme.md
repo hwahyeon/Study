@@ -21,21 +21,21 @@
 ## 직무 기술 강의
 |ID|제목|학습 내용|완료|
 |:---|:---|:---|:---:|
-|001|[파이썬을 파이썬답게](https://github.com/hwahyeon/class-pylikepy)|· Pythonic coding||
+|001|[파이썬을 파이썬답게](https://github.com/hwahyeon/class-pylikepy)|· Pythonic coding|○|
 |002|[Hello, JavaScript!](https://github.com/hwahyeon/class-hello-js)|· JavaScript|○|
-|007|[웹 표준 사이트 만들기(2019)](https://github.com/hwahyeon/lecture_wb/tree/main/01WEBSTANDARD)|[강의 소개](https://www.youtube.com/playlist?list=PL4UVBBIc6giKixok-bC7XVEx0ZFsngr5Z)<br>· 레이아웃<br>· 사이트 제작(메뉴/게시판/탭/팝업/푸터)<br>· 스크립트|○|
+|007|[웹 표준 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-stadndard)|· 레이아웃<br>· 사이트 제작(메뉴/게시판/탭/팝업/푸터)<br>· 스크립트|○|
 |003|[바닐라 JS로 크롬 앱 만들기](https://github.com/hwahyeon/browserjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners) / [챌린지 소개](https://nomadcoders.co/vanillajs-challenge)<br>· JavaScript|○<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
 |006|[바닐라 JS로 그림판 만들기](https://github.com/hwahyeon/paintjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
+|018|[바닐라 JS로 그림 앱 만들기(2022)](https://github.com/hwahyeon/mememakerjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
+|016|[Typescript로 블록체인 만들기](https://github.com/hwahyeon/class-ts-blockchain)|[강의 소개](https://nomadcoders.co/typescript-for-beginners) / [챌린지 소개](https://nomadcoders.co/typescript-challenge)<br>· Typescript<br>· TSConfig<br>· TSNode|○<br>[ⓒ](https://nomadcoders.co/certs/d19dbd4f-5b7e-4e1d-a129-67dec33bec9b)|
+||||
 |009|[Mouse Effect](https://github.com/hwahyeon/class-wb-mouse)|[강의 소개](https://www.youtube.com/watch?v=lNptKy93sf4&list=PL4UVBBIc6giI9zDQvx9z8CiRAh7WB8-3J)<br>· JavaScript<br>· Mouse Effect|○|
 |020|[CSS Animation](https://github.com/hwahyeon/lecture_wb/tree/main/CSS_Animation)|[강의 소개](https://www.youtube.com/Webstoryboy)<br>· CSS Animtation|○|
 |024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/lecture_wb/tree/main/04MOBILE)|[강의 소개](https://www.youtube.com/playlist?list=PL4UVBBIc6giJfhwzLnjDbyXL9tG_cHIo1)<br>· Figma<br>· 모바일 사이트 제작||
-|018|[바닐라 JS로 그림 앱 만들기(2022)](https://github.com/hwahyeon/mememakerjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
-||||
 |002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||
 |003|[SW 코딩 훈련 트랙](https://github.com/hwahyeon/2022SW_elice)|[강의 소개](https://2022aionline.elice.io/tracks/2515/info)<br>· Node.js / Express.js<br>· MongoDB||
 |008|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/lecture_wb/tree/main/02RESPONSIVE)|[강의 소개](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· 반응형 레이아웃<br>· 반응형 사이트 제작(헤더/메뉴/게시판/블로그/팝업/푸터)<br>· 사이드 이펙트||
 |012|[React Fundamentals](https://github.com/hwahyeon/reactjs)<br>↳ [단위 변환기](https://github.com/hwahyeon/reactjs/tree/main/UnitsConverter)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs_small)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs_small)<br>↳ [영화 웹 서비스](https://github.com/hwahyeon/reactjs_movieapp)|[강의 소개](https://nomadcoders.co/react-for-beginners)<br>· React<br>· Axios<br>· React Router<br>※ Functional / Class-based components|△|
-|016|[Typescript로 블록체인 만들기](https://github.com/hwahyeon/TS_blockchain)<br/>↳ [타입스크립트 챌린지](https://github.com/hwahyeon/Study_private/tree/main/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%B1%8C%EB%A6%B0%EC%A7%80)|[강의 소개](https://nomadcoders.co/typescript-for-beginners) / [챌린지 소개](https://nomadcoders.co/typescript-challenge)<br>· Typescript<br>· TSConfig<br>· TSNode|○<br>[ⓒ](https://nomadcoders.co/certs/d19dbd4f-5b7e-4e1d-a129-67dec33bec9b)|
 |017|[Python으로 웹 스크래퍼 만들기(2022)](https://github.com/hwahyeon/Python_Nomad)<br/>↳ [파이썬 챌린지](https://github.com/hwahyeon/Study_private/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80)|[강의 소개](https://nomadcoders.co/python-for-beginners) / [챌린지 소개](https://nomadcoders.co/python-challenge)<br>· Scrapping<br>· Django<br>· Flask|[ⓒ](https://nomadcoders.co/certs/528f75a1-57a6-498a-94af-b2a718cf62fa)|
 |021|[실전형 리액트 Hooks 10개](https://github.com/hwahyeon/reacthooks)|[강의 소개](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks||
 |022|[React Native로 2개의 앱 만들기]()|[강의 소개](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||
