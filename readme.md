@@ -15,6 +15,7 @@
 |007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/book-html5css3)|· HTML5 / CSS3 <br>· CSS3 변환 및 변형과 애니메이션||
 |008|[Do it! 웹 사이트 따라 만들기](https://github.com/hwahyeon/book-doit-website)|· Ajax <br>· CSS Animation <br>· JQuery||
 |009|[이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/hwahyeon/book-pycotest-guide)|· 알고리즘 <br>· Python||
+|010|[잠자는 코딩 브레인을 깨우는 알고리즘 퍼즐 69](https://github.com/hwahyeon/book-algorithms-69)|· 알고리즘||
 
 
 ## 직무 기술 강의
