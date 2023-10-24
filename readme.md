@@ -7,7 +7,7 @@
 |No|제목|학습 내용|완료|
 |:---|:---|:---|:---:|
 |001|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/book-learn-regex)|· 정규 표현식|○|
-|002|[정치학을 위한 파이썬](https://github.com/hwahyeon/book-python-politics)|<br>· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석<br>· 그래프|○|
+|002|[정치학을 위한 파이썬](https://github.com/hwahyeon/book-python-politics)|· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석<br>· 그래프|○|
 |003|[모두의 알고리즘 with 파이썬](https://github.com/hwahyeon/book-py-algoeveryone)|· 재귀 호출<br>· 탐색과 정렬<br>· 자료구조|○|
 |004|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/book-17skills)|· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib<br>· Web||
 |005|[고등학교수학으로이해하는컴퓨터](https://github.com/hwahyeon/book-through-math)|· 컴퓨터과학 <br>· 수학||
