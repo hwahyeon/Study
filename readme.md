@@ -28,9 +28,9 @@
 |006|[바닐라 JS로 그림판 만들기](https://github.com/hwahyeon/paintjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |018|[바닐라 JS로 그림 앱 만들기(2022)](https://github.com/hwahyeon/mememakerjs)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |016|[Typescript로 블록체인 만들기](https://github.com/hwahyeon/class-ts-blockchain)|[강의 소개](https://nomadcoders.co/typescript-for-beginners) / [챌린지 소개](https://nomadcoders.co/typescript-challenge)<br>· Typescript<br>· TSConfig<br>· TSNode|○<br>[ⓒ](https://nomadcoders.co/certs/d19dbd4f-5b7e-4e1d-a129-67dec33bec9b)|
+|009|[Mouse Effect](https://github.com/hwahyeon/class-wb-mouse)|· JavaScript<br>· Mouse Effect|○|
+|020|[CSS Animation](https://github.com/hwahyeon/class-wb-cssani)|· CSS Animtation|○|
 ||||
-|009|[Mouse Effect](https://github.com/hwahyeon/class-wb-mouse)|[강의 소개](https://www.youtube.com/watch?v=lNptKy93sf4&list=PL4UVBBIc6giI9zDQvx9z8CiRAh7WB8-3J)<br>· JavaScript<br>· Mouse Effect|○|
-|020|[CSS Animation](https://github.com/hwahyeon/lecture_wb/tree/main/CSS_Animation)|[강의 소개](https://www.youtube.com/Webstoryboy)<br>· CSS Animtation|○|
 |024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/lecture_wb/tree/main/04MOBILE)|[강의 소개](https://www.youtube.com/playlist?list=PL4UVBBIc6giJfhwzLnjDbyXL9tG_cHIo1)<br>· Figma<br>· 모바일 사이트 제작||
 |002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||
 |003|[SW 코딩 훈련 트랙](https://github.com/hwahyeon/2022SW_elice)|[강의 소개](https://2022aionline.elice.io/tracks/2515/info)<br>· Node.js / Express.js<br>· MongoDB||
