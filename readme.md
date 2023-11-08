@@ -32,7 +32,7 @@
 |020|[CSS Animation](https://github.com/hwahyeon/class-wb-cssani)|· CSS Animtation|○|
 ||||
 |024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)|· Figma<br>· 모바일 사이트 제작|○|
-|012|[React Fundamentals](https://github.com/hwahyeon/reactjs)<br>↳ [단위 변환기](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs_small)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs_small)<br>↳ [영화 웹 서비스](https://github.com/hwahyeon/reactjs_movieapp)|[강의 소개](https://nomadcoders.co/react-for-beginners)<br>· React<br>· Axios<br>· React Router<br>※ Functional / Class-based components|○|
+|012|[React Fundamentals](https://github.com/hwahyeon/reactjs)<br>↳ [단위 변환기](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs_small)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs_small)<br>↳ [영화 웹 서비스](https://github.com/hwahyeon/reactjs-movieapp)|[강의 소개](https://nomadcoders.co/react-for-beginners)<br>· React<br>· Axios<br>· React Router<br>※ Functional / Class-based components|○|
 |020|[Artificial Intelligence Algorithms Models and Limitations](https://github.com/hwahyeon/class-ai-limitation/)|· Machine Learning<br>· Algorithms|○|
 |020|[Artificial Intelligence Data Fairness and Bias](https://github.com/hwahyeon/class-ai-datafairness)|· Machine Learning<br>· Algorithms||
 |020|[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/hwahyeon/class-intro-tf)|· Machine Learning<br>· Tensorflow||
