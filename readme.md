@@ -31,7 +31,7 @@
 |009|[Mouse Effect](https://github.com/hwahyeon/class-wb-mouse)|· JavaScript<br>· Mouse Effect|○|
 |020|[CSS Animation](https://github.com/hwahyeon/class-wb-cssani)|· CSS Animtation|○|
 ||||
-|012|[초보자를 위한 리덕스 101]()<br>↳ [Vanilla-Redux](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [React-Redux](https://github.com/hwahyeon/reactjs_small)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit|○|
+|012|초보자를 위한 리덕스 101<br>↳ [Vanilla-Redux](https://github.com/hwahyeon/)<br>↳ [React-Redux](https://github.com/hwahyeon/)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit||
 |024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)|· Figma<br>· 모바일 사이트 제작|○|
 |012|[Redux for beginners](https://github.com/hwahyeon/reactjs)<br>↳ [단위 변환기](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs_small)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs_small)<br>↳ [영화 웹 서비스](https://github.com/hwahyeon/reactjs-movieapp)|[강의 소개](https://nomadcoders.co/react-for-beginners)<br>· React<br>· Axios<br>· React Router<br>※ Functional / Class-based components|○|
 |020|[Artificial Intelligence Algorithms Models and Limitations](https://github.com/hwahyeon/class-ai-limitation/)|· Machine Learning<br>· Algorithms|○|
