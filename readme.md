@@ -32,7 +32,7 @@
 |020|[CSS Animation](https://github.com/hwahyeon/class-wb-cssani)|· CSS Animtation|○|
 ||||
 ||||
-|012|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [단위 변환기](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [영화 웹 서비스](https://github.com/hwahyeon/reactjs-movieapp)|[강의 소개](https://nomadcoders.co/react-for-beginners)<br>· React<br>· Axios<br>· React Router|○|
+|012|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [단위 변환기](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [영화 웹 서비스](https://github.com/hwahyeon/reactjs-movieapp)|· React<br>· React Router|○|
 |012|Redux for beginners<br>↳ [Vanilla-Redux](https://github.com/hwahyeon/)<br>↳ [React-Redux](https://github.com/hwahyeon/)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit||
 |024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)|· Figma<br>· 모바일 사이트 제작|○|
 |020|[Artificial Intelligence Algorithms Models and Limitations](https://github.com/hwahyeon/class-ai-limitation/)|· Machine Learning<br>· Algorithms|○|
