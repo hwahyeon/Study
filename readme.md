@@ -35,6 +35,7 @@
 |024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)|· Figma<br>· 모바일 사이트 제작|○|
 |020|[Artificial Intelligence Algorithms Models and Limitations](https://github.com/hwahyeon/class-ai-limitation/)|· Machine Learning<br>· Algorithms|○|
 |020|[Artificial Intelligence Data Fairness and Bias](https://github.com/hwahyeon/class-ai-datafairness)|· Machine Learning<br>· Algorithms||
+|020|[Artificial Intelligence Privacy and Convenience](https://github.com/hwahyeon/class-ai-privacy)|· Machine Learning<br>· Algorithms||
 |020|[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/hwahyeon/class-intro-tf)|· Machine Learning<br>· Tensorflow||
 |002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||
 |008|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-responsive)|[강의 소개](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· 반응형 레이아웃<br>· 헤더/메뉴/게시판/블로그/팝업/푸터<br>· 사이드 이펙트||
