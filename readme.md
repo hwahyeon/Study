@@ -31,7 +31,7 @@
 |020|[CSS Animation](https://github.com/hwahyeon/class-wb-cssani)|· CSS Animtation|○|
 |012|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [Units Converter](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [Movie App](https://github.com/hwahyeon/reactjs-movieapp)|· React<br>· React Router|○|
 |-|-|-|
-|012|Redux for beginners<br>↳ [Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit||
+|012|Redux for beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit||
 |024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)|· Figma<br>· 모바일 사이트 제작|○|
 |020|[Artificial Intelligence Algorithms Models and Limitations](https://github.com/hwahyeon/class-ai-limitation/)|· Machine Learning<br>· Algorithms|○|
 |020|[Artificial Intelligence Data Fairness and Bias](https://github.com/hwahyeon/class-ai-datafairness)|· Machine Learning<br>· Algorithms||
