@@ -5,16 +5,16 @@
 ## 직무 기술 도서
 |No|제목|학습 내용|완료|
 |:---|:---|:---|:---:|
-|001|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/book-learn-regex)|· 정규 표현식|○|
-|002|[정치학을 위한 파이썬](https://github.com/hwahyeon/book-python-politics)|· 웹 스크래핑/API를 활용한 데이터 수집<br>· 시각화와 분석<br>· 그래프|○|
-|003|[모두의 알고리즘 with 파이썬](https://github.com/hwahyeon/book-py-algoeveryone)|· 재귀 호출<br>· 탐색과 정렬<br>· 자료구조|○|
-|009|[이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/hwahyeon/book-pycotest-guide)|· 알고리즘 <br>· Python||
+|001|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/book-learn-regex)|· Regular Expressions|○|
+|002|[정치학을 위한 파이썬](https://github.com/hwahyeon/book-python-politics)|· Web Scraping/Data collection using API<br>· Visualization & Analysis<br>· Graph|○|
+|003|[모두의 알고리즘 with 파이썬](https://github.com/hwahyeon/book-py-algoeveryone)|· Recursive Call<br>· Search and Sort<br>· Data Structures|○|
+|009|[이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/hwahyeon/book-pycotest-guide)|· Algorithm <br>· Python||
 <!--|004|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/book-17skills)|· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib<br>· Web||-->
 <!--|005|[고등학교수학으로이해하는컴퓨터](https://github.com/hwahyeon/book-through-math)|· 컴퓨터과학 <br>· 수학||-->
-<!--|006|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/book-learn-algo)|· 알고리즘 <br>· Python||-->
+<!--|006|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/book-learn-algo)|· Algorithm <br>· Python||-->
 <!--|007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/book-html5css3)|· HTML5 / CSS3 <br>· CSS3 변환 및 변형과 애니메이션||-->
 <!--|008|[Do it! 웹 사이트 따라 만들기](https://github.com/hwahyeon/book-doit-website)|· Ajax <br>· CSS Animation <br>· JQuery||-->
-<!--|010|[잠자는 코딩 브레인을 깨우는 알고리즘 퍼즐 69](https://github.com/hwahyeon/book-algorithms-69)|· 알고리즘||-->
+<!--|010|[잠자는 코딩 브레인을 깨우는 알고리즘 퍼즐 69](https://github.com/hwahyeon/book-algorithms-69)|· Algorithm||-->
 
 
 ## 직무 기술 강의
