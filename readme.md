@@ -30,8 +30,10 @@
 |009|[Mouse Effect](https://github.com/hwahyeon/class-wb-mouse)|· JavaScript<br>· Mouse Effect|○|
 |020|[CSS Animation](https://github.com/hwahyeon/class-wb-cssani)|· CSS Animtation|○|
 |012|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [Units Converter](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [Movie App](https://github.com/hwahyeon/reactjs-movieapp)|· React<br>· React Router|○|
+|012|Redux for beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit|○|
 |-|-|-|
-|012|Redux for beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit||
+|021|[실전형 리액트 Hooks 10개](https://github.com/hwahyeon/class-reacthooks10)|[강의 소개](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks||
+|021|[씹어먹는 C 언어](https://github.com/hwahyeon/class-modoocode-c)|· C<br>· C code optimization||
 |024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)|· Figma<br>· 모바일 사이트 제작|○|
 |020|[Artificial Intelligence Algorithms Models and Limitations](https://github.com/hwahyeon/class-ai-limitation/)|· Machine Learning<br>· Algorithms|○|
 |020|[Artificial Intelligence Data Fairness and Bias](https://github.com/hwahyeon/class-ai-datafairness)|· Machine Learning<br>· Algorithms||
@@ -40,7 +42,6 @@
 |002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||
 |008|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-responsive)|[강의 소개](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· 반응형 레이아웃<br>· 헤더/메뉴/게시판/블로그/팝업/푸터<br>· 사이드 이펙트||
 |017|[Python으로 웹 스크래퍼 만들기(2022)](https://github.com/hwahyeon/py-job-scrapper)|[강의 소개](https://nomadcoders.co/python-for-beginners) / [챌린지 소개](https://nomadcoders.co/python-challenge)<br>· Scrapping<br>· Django<br>· Flask|[ⓒ](https://nomadcoders.co/certs/528f75a1-57a6-498a-94af-b2a718cf62fa)|
-|021|[실전형 리액트 Hooks 10개](https://github.com/hwahyeon/reacthooks)|[강의 소개](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks||
 <!--|022|[React Native로 2개의 앱 만들기]()|[강의 소개](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||-->
 <!--|023|[트위터 클론코딩]()|[강의 소개](https://nomadcoders.co/nwitter)<br>· Firebase<br>· NoSQL Realtime, Query, Filter<br>· Google Cloud Storage||-->
 
