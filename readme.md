@@ -22,23 +22,23 @@
 |:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/class-pylikepy)|· Pythonic coding|○|
 |002|[Hello, JavaScript!](https://github.com/hwahyeon/class-hello-js)|· JavaScript|○|
-|007|[웹 표준 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-stadndard)|· 레이아웃<br>· 메뉴/게시판/탭/팝업/푸터<br>· 스크립트|○|
+|007|[웹 표준 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-stadndard)|· Layout<br>· Menu/Board/Tabs/Popup/Footer<br>· Script|○|
 |003|[바닐라 JS로 크롬 앱 만들기](https://github.com/hwahyeon/js-browser)|[강의 소개](https://nomadcoders.co/javascript-for-beginners) / [챌린지 소개](https://nomadcoders.co/vanillajs-challenge)<br>· JavaScript|○<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
 |006|[바닐라 JS로 그림판 만들기](https://github.com/hwahyeon/js-painter)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |018|[Build a Meme Maker](https://github.com/hwahyeon/js-mememake)|[강의 소개](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |016|[Typescript로 블록체인 만들기](https://github.com/hwahyeon/class-ts-blockchain)|[강의 소개](https://nomadcoders.co/typescript-for-beginners) / [챌린지 소개](https://nomadcoders.co/typescript-challenge)<br>· Typescript<br>· TSConfig<br>· TSNode|○<br>[ⓒ](https://nomadcoders.co/certs/d19dbd4f-5b7e-4e1d-a129-67dec33bec9b)|
 |009|[Mouse Effect](https://github.com/hwahyeon/class-wb-mouse)|· JavaScript<br>· Mouse Effect|○|
 |020|[CSS Animation](https://github.com/hwahyeon/class-wb-cssani)|· CSS Animtation|○|
-|024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)|· Figma<br>· 모바일 사이트 제작|○|
+|024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)|· Figma<br>· Mobile Web|○|
 |012|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [Units Converter](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [Movie App](https://github.com/hwahyeon/reactjs-movieapp)|· React<br>· React Router|○|
 |012|Redux for Beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit|○|
 |-|-|-|
 |-|-|-|
 |012|React Masterclass<br>↳ [CRYPTO TRACKER](https://github.com/hwahyeon/reactjs-cryptotracker)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-todolist)|· Typescript<br>· Recoil<br>· Framer Motion<br>· Gatsby||
-|021|[실전형 리액트 Hooks 10개](https://github.com/hwahyeon/class-reacthooks10)|[강의 소개](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks||
+|021|[Learn by Building 10 Hooks](https://github.com/hwahyeon/class-reacthooks10)|[강의 소개](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks||
 |020|Ethics in the Age of AI Specialization<br>↳ [Artificial Intelligence Algorithms Models and Limitations](https://github.com/hwahyeon/class-ai-limitation/)<br>↳ [Artificial Intelligence Data Fairness and Bias](https://github.com/hwahyeon/class-ai-datafairness)<br>↳ [Artificial Intelligence Privacy and Convenience](https://github.com/hwahyeon/class-ai-privacy)<br>↳ Artificial Intelligence Ethics in Action |· Ethics of AI<br>· Predictive Modelling<br>· Data bias||
 |020|DeepLearning.AI TensorFlow Developer Professional Certificate<br>↳ [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/hwahyeon/class-intro-tf)<br>↳ Convolutional Neural Networks in TensorFlow<br>↳ Natural Language Processing in TensorFlow<br>↳ Sequences, Time Series and Prediction |· Machine Learning<br>· TensorFlow||
-|008|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-responsive)|[강의 소개](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· 반응형 레이아웃<br>· 헤더/메뉴/게시판/블로그/팝업/푸터<br>· 사이드 이펙트||
+|008|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-responsive)|[강의 소개](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· Responsive Layout<br>· Header/Menu/Board/Blog/Popup/Footer<br>· Side Effects||
 |017|[Python으로 웹 스크래퍼 만들기(2022)](https://github.com/hwahyeon/py-job-scrapper)|[강의 소개](https://nomadcoders.co/python-for-beginners) / [챌린지 소개](https://nomadcoders.co/python-challenge)<br>· Scrapping<br>· Django<br>· Flask|[ⓒ](https://nomadcoders.co/certs/528f75a1-57a6-498a-94af-b2a718cf62fa)|
 <!--|002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||-->
 <!--|021|[씹어먹는 C 언어](https://github.com/hwahyeon/class-modoocode-c)|· C<br>· C code optimization||-->
