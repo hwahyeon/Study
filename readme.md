@@ -30,7 +30,8 @@
 |009|[Mouse Effect](https://github.com/hwahyeon/class-wb-mouse)|· JavaScript<br>· Mouse Effect|○|
 |020|[CSS Animation](https://github.com/hwahyeon/class-wb-cssani)|· CSS Animtation|○|
 |012|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [Units Converter](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [Movie App](https://github.com/hwahyeon/reactjs-movieapp)|· React<br>· React Router|○|
-|012|Redux for beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit|○|
+|012|Redux for Beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit|○|
+|-|-|-|
 |-|-|-|
 |021|[실전형 리액트 Hooks 10개](https://github.com/hwahyeon/class-reacthooks10)|[강의 소개](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks||
 |021|[씹어먹는 C 언어](https://github.com/hwahyeon/class-modoocode-c)|· C<br>· C code optimization||
