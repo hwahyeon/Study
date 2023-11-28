@@ -29,13 +29,13 @@
 |016|[Typescript로 블록체인 만들기](https://github.com/hwahyeon/class-ts-blockchain)|[강의 소개](https://nomadcoders.co/typescript-for-beginners) / [챌린지 소개](https://nomadcoders.co/typescript-challenge)<br>· Typescript<br>· TSConfig<br>· TSNode|○<br>[ⓒ](https://nomadcoders.co/certs/d19dbd4f-5b7e-4e1d-a129-67dec33bec9b)|
 |009|[Mouse Effect](https://github.com/hwahyeon/class-wb-mouse)|· JavaScript<br>· Mouse Effect|○|
 |020|[CSS Animation](https://github.com/hwahyeon/class-wb-cssani)|· CSS Animtation|○|
+|024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)|· Figma<br>· 모바일 사이트 제작|○|
 |012|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [Units Converter](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [Movie App](https://github.com/hwahyeon/reactjs-movieapp)|· React<br>· React Router|○|
 |012|Redux for Beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[강의 소개](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit|○|
 |-|-|-|
 |-|-|-|
 |021|[실전형 리액트 Hooks 10개](https://github.com/hwahyeon/class-reacthooks10)|[강의 소개](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks||
 |021|[씹어먹는 C 언어](https://github.com/hwahyeon/class-modoocode-c)|· C<br>· C code optimization||
-|024|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)|· Figma<br>· 모바일 사이트 제작|○|
 |020|[Artificial Intelligence Algorithms Models and Limitations](https://github.com/hwahyeon/class-ai-limitation/)|· Machine Learning<br>· Algorithms|○|
 |020|[Artificial Intelligence Data Fairness and Bias](https://github.com/hwahyeon/class-ai-datafairness)|· Machine Learning<br>· Algorithms||
 |020|[Artificial Intelligence Privacy and Convenience](https://github.com/hwahyeon/class-ai-privacy)|· Machine Learning<br>· Algorithms||
