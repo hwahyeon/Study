@@ -1,4 +1,4 @@
-# **학습 기록소**
+# **Learning Archive**
 
 * 책이나 강의에서 **실습**한 **결과물**을 중점으로 기록한다.
 * **ⓒ** refers to challenges or similar tasks within the course, while **ⓑ** signifies a bootcamp.
