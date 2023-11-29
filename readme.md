@@ -1,9 +1,10 @@
 # **학습 기록소**
 
 * 책이나 강의에서 **실습**한 **결과물**을 중점으로 기록한다.
+* **ⓒ** refers to challenges or similar tasks within the course, while **ⓑ** signifies a bootcamp.
 
 ## 직무 기술 도서
-|No|제목|학습 내용|완료|
+|No.| Title | Learning Contents | Completed |
 |:---|:---|:---|:---:|
 |001|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/book-learn-regex)|· Regular Expressions|○|
 |002|[정치학을 위한 파이썬](https://github.com/hwahyeon/book-python-politics)|· Web Scraping/Data collection using API<br>· Visualization & Analysis<br>· Graph|○|
@@ -18,7 +19,7 @@
 
 
 ## 직무 기술 강의
-|ID|제목|학습 내용|완료|
+|No.| Title | Learning Contents | Completed |
 |:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/class-pylikepy)|· Pythonic coding|○|
 |002|[Hello, JavaScript!](https://github.com/hwahyeon/class-hello-js)|· JavaScript|○|
@@ -40,6 +41,7 @@
 |020|DeepLearning.AI TensorFlow Developer Professional Certificate<br>↳ [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/hwahyeon/class-intro-tf)<br>↳ [Convolutional Neural Networks in TensorFlow](https://github.com/hwahyeon/class-cnn-tf)<br>↳ Natural Language Processing in TensorFlow<br>↳ Sequences, Time Series and Prediction |· Machine Learning<br>· TensorFlow||
 |008|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-responsive)|[강의 소개](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· Responsive Layout<br>· Header/Menu/Board/Blog/Popup/Footer<br>· Side Effects||
 |017|[Python으로 웹 스크래퍼 만들기(2022)](https://github.com/hwahyeon/py-job-scrapper)|[강의 소개](https://nomadcoders.co/python-for-beginners) / [챌린지 소개](https://nomadcoders.co/python-challenge)<br>· Scrapping<br>· Django<br>· Flask|[ⓒ](https://nomadcoders.co/certs/528f75a1-57a6-498a-94af-b2a718cf62fa)|
+|020|Deep Learning Specialization<br>↳ Neural Networks and Deep Learning<br>↳ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization<br>↳ Structuring Machine Learning Projects<br>↳ Convolutional Neural Networks<br>↳ Sequence Models|· Deep Learning|ⓑ|
 <!--|002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||-->
 <!--|021|[씹어먹는 C 언어](https://github.com/hwahyeon/class-modoocode-c)|· C<br>· C code optimization||-->
 <!--|022|[React Native로 2개의 앱 만들기]()|[강의 소개](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||-->
