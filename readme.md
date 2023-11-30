@@ -42,6 +42,7 @@
 |008|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-responsive)|[강의 소개](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· Responsive Layout<br>· Header/Menu/Board/Blog/Popup/Footer<br>· Side Effects||
 |017|[Python으로 웹 스크래퍼 만들기(2022)](https://github.com/hwahyeon/py-job-scrapper)|[강의 소개](https://nomadcoders.co/python-for-beginners) / [챌린지 소개](https://nomadcoders.co/python-challenge)<br>· Scrapping<br>· Django<br>· Flask|[ⓒ](https://nomadcoders.co/certs/528f75a1-57a6-498a-94af-b2a718cf62fa)|
 |020|Deep Learning Specialization<br>↳ Neural Networks and Deep Learning<br>↳ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization<br>↳ Structuring Machine Learning Projects<br>↳ Convolutional Neural Networks<br>↳ Sequence Models|· Deep Learning|ⓑ|
+<!--|002|[Analysis using Fortran](https://github.com/hwahyeon/class-fortran-analysis)|· Fortran<br>· Data analysis||-->
 <!--|002|[WEBn](https://github.com/hwahyeon/Web_Open)|[강의 소개](https://opentutorials.org/course/3083)<br>· 웹 개발 전반||-->
 <!--|021|[씹어먹는 C 언어](https://github.com/hwahyeon/class-modoocode-c)|· C<br>· C code optimization||-->
 <!--|022|[React Native로 2개의 앱 만들기]()|[강의 소개](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||-->
