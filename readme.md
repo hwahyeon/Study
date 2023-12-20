@@ -1,9 +1,9 @@
 # **Learning Archive**
 
-* 책이나 강의에서 **실습**한 **결과물**을 중점으로 기록한다.
-* **ⓒ** refers to challenges or similar tasks within the course, while **ⓑ** signifies a bootcamp.
+* It is recorded with a focus on **results** of **practice** in books or lectures.
+* **ⓒ** refers to challenges or tasks within the course, while **ⓑ** signifies a bootcamp.
 
-## 직무 기술 도서
+## Books
 |No.| Title | Learning Contents | Completed |
 |:---|:---|:---|:---:|
 |001|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/book-learn-regex)|· Regular Expressions|○|
@@ -18,7 +18,7 @@
 <!--|010|[잠자는 코딩 브레인을 깨우는 알고리즘 퍼즐 69](https://github.com/hwahyeon/book-algorithms-69)|· Algorithm||-->
 
 
-## 직무 기술 강의
+## Courses
 |No.| Title | Learning Contents | Completed |
 |:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/class-pylikepy)|· Pythonic coding|○|
