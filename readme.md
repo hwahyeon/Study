@@ -23,8 +23,8 @@
 |:---|:---|:---|:---:|
 |001|[파이썬을 파이썬답게](https://github.com/hwahyeon/class-pylikepy)|· Pythonic coding|○|
 |002|[Hello, JavaScript!](https://github.com/hwahyeon/class-hello-js)|· JavaScript|○|
+|003|[Javascript for Beginners](https://github.com/hwahyeon/js-browser)|[Introduction](https://nomadcoders.co/javascript-for-beginners) / [Challenge](https://nomadcoders.co/vanillajs-challenge)<br>· JavaScript|○<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
 |007|[웹 표준 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-stadndard)|· Layout<br>· Menu/Board/Tabs/Popup/Footer<br>· Script|○|
-|003|[바닐라 JS로 크롬 앱 만들기](https://github.com/hwahyeon/js-browser)|[Introduction](https://nomadcoders.co/javascript-for-beginners) / [Challenge](https://nomadcoders.co/vanillajs-challenge)<br>· JavaScript|○<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
 |006|[바닐라 JS로 그림판 만들기](https://github.com/hwahyeon/js-painter)|[Introduction](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |018|[Build a Meme Maker](https://github.com/hwahyeon/js-mememake)|[Introduction](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|○|
 |016|[Typescript로 블록체인 만들기](https://github.com/hwahyeon/class-ts-blockchain)|[Introduction](https://nomadcoders.co/typescript-for-beginners) / [Challenge](https://nomadcoders.co/typescript-challenge)<br>· Typescript<br>· TSConfig<br>· TSNode|○<br>[ⓒ](https://nomadcoders.co/certs/d19dbd4f-5b7e-4e1d-a129-67dec33bec9b)|
