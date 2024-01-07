@@ -6,7 +6,7 @@
 ## Books
 |No.| Title | Learning Contents | Completed |
 |:---|:---|:---|:---:|
-|001|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/book-learn-regex)|· Regular Expressions|○|
+|001|[Learning Regular Expressions](https://github.com/hwahyeon/book-learn-regex)|· Regular Expressions|○|
 |002|[정치학을 위한 파이썬](https://github.com/hwahyeon/book-python-politics)|· Web Scraping/Data collection using API<br>· Visualization & Analysis<br>· Graph|○|
 |003|[모두의 알고리즘 with 파이썬](https://github.com/hwahyeon/book-py-algoeveryone)|· Recursive Call<br>· Search and Sort<br>· Data Structures|○|
 |004|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/book-17skills)|· Encoding<br>· i18n<br>· UUID<br>· YAML<br>· zlib<br>· Web||
