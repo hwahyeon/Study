@@ -3,6 +3,20 @@
 * It is recorded with a focus on **results** of **practice** in books or lectures.
 * **ⓒ** refers to challenges or tasks within the course, while **ⓑ** signifies a bootcamp.
 
+## Books
+|No.| Title | Learning Contents | Completed |
+|:---|:---|:---|:---:|
+|001|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/book-learn-regex)|· Regular Expressions|○|
+|002|[정치학을 위한 파이썬](https://github.com/hwahyeon/book-python-politics)|· Web Scraping/Data collection using API<br>· Visualization & Analysis<br>· Graph|○|
+|003|[모두의 알고리즘 with 파이썬](https://github.com/hwahyeon/book-py-algoeveryone)|· Recursive Call<br>· Search and Sort<br>· Data Structures|○|
+|004|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/book-17skills)|· Encoding<br>· i18n<br>· UUID<br>· YAML<br>· zlib<br>· Web||
+|009|[이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/hwahyeon/book-pycotest-guide)|· Algorithm <br>· Python||
+<!--|005|[고등학교수학으로이해하는컴퓨터](https://github.com/hwahyeon/book-through-math)|· 컴퓨터과학 <br>· 수학||-->
+<!--|006|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/book-learn-algo)|· Algorithm <br>· Python||-->
+<!--|007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/book-html5css3)|· HTML5 / CSS3 <br>· CSS3 변환 및 변형과 애니메이션||-->
+<!--|008|[Do it! 웹 사이트 따라 만들기](https://github.com/hwahyeon/book-doit-website)|· Ajax <br>· CSS Animation <br>· JQuery||-->
+<!--|010|[잠자는 코딩 브레인을 깨우는 알고리즘 퍼즐 69](https://github.com/hwahyeon/book-algorithms-69)|· Algorithm||-->
+
 ## Courses
 |No.| Title | Learning Contents | Completed |
 |:---|:---|:---|:---:|
@@ -35,18 +49,6 @@
 <!--|022|[React Native로 2개의 앱 만들기]()|[Introduction](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||-->
 <!--|023|[트위터 클론코딩]()|[강의 소개](https://nomadcoders.co/nwitter)<br>· Firebase<br>· NoSQL Realtime, Query, Filter<br>· Google Cloud Storage||-->
 
-## Books
-|No.| Title | Learning Contents | Completed |
-|:---|:---|:---|:---:|
-|001|[손에 잡히는 10분 정규 표현식](https://github.com/hwahyeon/book-learn-regex)|· Regular Expressions|○|
-|002|[정치학을 위한 파이썬](https://github.com/hwahyeon/book-python-politics)|· Web Scraping/Data collection using API<br>· Visualization & Analysis<br>· Graph|○|
-|003|[모두의 알고리즘 with 파이썬](https://github.com/hwahyeon/book-py-algoeveryone)|· Recursive Call<br>· Search and Sort<br>· Data Structures|○|
-|009|[이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/hwahyeon/book-pycotest-guide)|· Algorithm <br>· Python||
-<!--|004|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/book-17skills)|· 문자열 인코딩<br>· i18n<br>· UUID<br>· YAML<br>· zlib<br>· Web||-->
-<!--|005|[고등학교수학으로이해하는컴퓨터](https://github.com/hwahyeon/book-through-math)|· 컴퓨터과학 <br>· 수학||-->
-<!--|006|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/book-learn-algo)|· Algorithm <br>· Python||-->
-<!--|007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/book-html5css3)|· HTML5 / CSS3 <br>· CSS3 변환 및 변형과 애니메이션||-->
-<!--|008|[Do it! 웹 사이트 따라 만들기](https://github.com/hwahyeon/book-doit-website)|· Ajax <br>· CSS Animation <br>· JQuery||-->
-<!--|010|[잠자는 코딩 브레인을 깨우는 알고리즘 퍼즐 69](https://github.com/hwahyeon/book-algorithms-69)|· Algorithm||-->
+
 
 
