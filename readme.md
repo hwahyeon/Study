@@ -2,6 +2,7 @@
 
 * It is recorded with a focus on **results** of **practice** in books or lectures.
 * **ⓒ** refers to challenges or tasks within the course, while **ⓑ** signifies a bootcamp.
+* The courses and books with Korean titles have their English translations in italics at the bottom of each title.
 
 ## Books
 |No.| Title | Learning Contents | Completed |
