@@ -46,9 +46,7 @@
 |020|Deep Learning Specialization<br>↳ Neural Networks and Deep Learning<br>↳ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization<br>↳ Structuring Machine Learning Projects<br>↳ Convolutional Neural Networks<br>↳ Sequence Models|· Deep Learning|ⓑ|
 <!--|002|[Analysis using Fortran](https://github.com/hwahyeon/class-fortran-analysis)|· Fortran<br>· Data analysis||-->
 <!--|021|[씹어먹는 C 언어](https://github.com/hwahyeon/class-modoocode-c)|· C<br>· C code optimization||-->
-<!--|022|[React Native로 2개의 앱 만들기]()|[Introduction](https://nomadcoders.co/react-native-for-beginners)<br>· React Native||-->
-<!--|023|[트위터 클론코딩]()|[강의 소개](https://nomadcoders.co/nwitter)<br>· Firebase<br>· NoSQL Realtime, Query, Filter<br>· Google Cloud Storage||-->
-
+<!--|012|Zoom Clone Coding|[Introduction](https://nomadcoders.co/wetube)<br>· WebSockets<br>· SocketIO<br>· WebRTC||-->
 
 
 
