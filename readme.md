@@ -1,7 +1,7 @@
 # **Learning Archive**
 
 * It is recorded with a focus on **results** of **practice** in books or lectures.
-* **ⓒ** refers to challenges or tasks within the course, while **ⓑ** signifies a bootcamp.
+* **ⓒ** refers to challenges or tasks within the course, while **ⓑ** signifies a bootcamp, and ▶ indicates that the task is currently in progress.
 * The courses and books with Korean titles have their English translations in italics at the bottom of each title.
 
 ## Books
