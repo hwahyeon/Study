@@ -36,15 +36,14 @@
 |014|Redux for Beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[Introduction](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit|○|
 |-|-|-|
 |-|-|-|
-|012|React Firebase for Beginners|[Introduction](https://nomadcoders.co/nwitter)<br>· React<br>· Firebase|▶|
-|012|YouTube Clone Coding|[Introduction](https://nomadcoders.co/wetube)<br>· NodeJS<br>· MongoDB<br>· ES6<br>· Express|▶|
-|012|NextJS Fundamentals|[Introduction](https://nomadcoders.co/nextjs-fundamentals)<br>· NextJS|▶|
+|012|[React Firebase for Beginners]|[Introduction](https://nomadcoders.co/nwitter)<br>· React<br>· Firebase|▶|
+|012|[YouTube Clone Coding]|[Introduction](https://nomadcoders.co/wetube)<br>· NodeJS<br>· MongoDB<br>· ES6<br>· Express|▶|
+|012|[NextJS Fundamentals]|[Introduction](https://nomadcoders.co/nextjs-fundamentals)<br>· NextJS|▶|
 |012|React Masterclass<br>↳ [CRYPTO TRACKER](https://github.com/hwahyeon/reactjs-cryptotracker)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-todolist)|[Challenge](https://nomadcoders.co/reactjs-challenge)<br>· Typescript<br>· Recoil<br>· Framer Motion<br>· Gatsby|▶<br>ⓒ|
 |021|[Learn by Building 10 Hooks](https://github.com/hwahyeon/class-reacthooks10)|[Introduction](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks|▶|
-|020|Ethics in the Age of AI Specialization<br>↳ [Artificial Intelligence Algorithms Models and Limitations](https://github.com/hwahyeon/class-ai-limitation/)<br>↳ [Artificial Intelligence Data Fairness and Bias](https://github.com/hwahyeon/class-ai-datafairness)<br>↳ [Artificial Intelligence Privacy and Convenience](https://github.com/hwahyeon/class-ai-privacy)<br>↳ Artificial Intelligence Ethics in Action |· Ethics of AI<br>· Predictive Modelling<br>· Data bias||
 |020|DeepLearning.AI TensorFlow Developer Professional Certificate<br>↳ [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/hwahyeon/class-intro-tf)<br>↳ [Convolutional Neural Networks in TensorFlow](https://github.com/hwahyeon/class-cnn-tf)<br>↳ Natural Language Processing in TensorFlow<br>↳ Sequences, Time Series and Prediction |· Machine Learning<br>· TensorFlow||
 |020|Deep Learning Specialization<br>↳ Neural Networks and Deep Learning<br>↳ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization<br>↳ Structuring Machine Learning Projects<br>↳ Convolutional Neural Networks<br>↳ Sequence Models|· Deep Learning|ⓑ|
-|012|Zoom Clone Coding|[Introduction](https://nomadcoders.co/wetube)<br>· WebSockets<br>· SocketIO<br>· WebRTC||
-|021|[씹어먹는 C 언어](https://github.com/hwahyeon/class-modoocode-c)|· C<br>· C code optimization||
+<!--|012|Zoom Clone Coding|[Introduction](https://nomadcoders.co/wetube)<br>· WebSockets<br>· SocketIO<br>· WebRTC||-->
+<!--|021|[씹어먹는 C 언어](https://github.com/hwahyeon/class-modoocode-c)|· C<br>· C code optimization||-->
 <!--|002|[Analysis using Fortran](https://github.com/hwahyeon/class-fortran-analysis)|· Fortran<br>· Data analysis||-->
-
+<!--|020|Ethics in the Age of AI Specialization<br>↳ [Artificial Intelligence Algorithms Models and Limitations](https://github.com/hwahyeon/class-ai-limitation/)<br>↳ [Artificial Intelligence Data Fairness and Bias](https://github.com/hwahyeon/class-ai-datafairness)<br>↳ [Artificial Intelligence Privacy and Convenience](https://github.com/hwahyeon/class-ai-privacy)<br>↳ Artificial Intelligence Ethics in Action |· Ethics of AI<br>· Predictive Modelling<br>· Data bias||-->
