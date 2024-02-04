@@ -38,7 +38,7 @@
 |-|-|-|
 |012|[React Firebase for Beginners]|[Introduction](https://nomadcoders.co/nwitter)<br>· React<br>· Firebase|▶|
 |012|[YouTube Clone Coding]|[Introduction](https://nomadcoders.co/wetube)<br>· NodeJS<br>· MongoDB<br>· ES6<br>· Express|▶|
-|012|[NextJS Fundamentals]|[Introduction](https://nomadcoders.co/nextjs-fundamentals)<br>· NextJS|▶|
+|012|[NextJS Fundamentals](https://github.com/hwahyeon/nextjs-movieapp)|[Introduction](https://nomadcoders.co/nextjs-fundamentals)<br>· NextJS 14|▶|
 |012|React Masterclass<br>↳ [CRYPTO TRACKER](https://github.com/hwahyeon/reactjs-cryptotracker)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-todolist)|[Challenge](https://nomadcoders.co/reactjs-challenge)<br>· Typescript<br>· Recoil<br>· Framer Motion<br>· Gatsby|▶<br>ⓒ|
 |021|[Learn by Building 10 Hooks](https://github.com/hwahyeon/class-reacthooks10)|[Introduction](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks|▶|
 |020|DeepLearning.AI TensorFlow Developer Professional Certificate<br>↳ [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/hwahyeon/class-intro-tf)<br>↳ [Convolutional Neural Networks in TensorFlow](https://github.com/hwahyeon/class-cnn-tf)<br>↳ Natural Language Processing in TensorFlow<br>↳ Sequences, Time Series and Prediction |· Machine Learning<br>· TensorFlow||
