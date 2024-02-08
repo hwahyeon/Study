@@ -34,10 +34,10 @@
 |013|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [Units Converter](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [Movie App](https://github.com/hwahyeon/reactjs-movieapp)|· React<br>· React Router|✔️|
 |014|Redux for Beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[Introduction](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit|✔️|
 |015|[Learn by Building 10 Hooks](https://github.com/hwahyeon/class-reacthooks10)|[Introduction](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks<br>· npm|▶|
-|-|-|-|
-|-|-|-|
+|<br><br><br><br><br>||||
 |012|[React Firebase for Beginners]|[Introduction](https://nomadcoders.co/nwitter)<br>· React<br>· Firebase|▶|
 |012|[YouTube Clone Coding](https://github.com/hwahyeon/short-tube)|[Introduction](https://nomadcoders.co/wetube)<br>· NodeJS<br>· MongoDB<br>· ES6<br>· Express|▶|
+|012|[ES6, ES7 & ES8, TIME to update your JavaScript / ECMAScript!]|[Introduction](https://www.udemy.com/course/es6-es7-and-es8-its-time-to-update-your-javascript/)<br>· ECMAScript||
 |012|[NextJS Fundamentals](https://github.com/hwahyeon/nextjs-movieapp)|[Introduction](https://nomadcoders.co/nextjs-fundamentals)<br>· NextJS 14|▶|
 |012|React Masterclass<br>↳ [CRYPTO TRACKER](https://github.com/hwahyeon/reactjs-cryptotracker)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-todolist)|· TypeScript<br>· Recoil<br>· Framer Motion<br>· Gatsby|▶|
 |020|DeepLearning.AI TensorFlow Developer Professional Certificate<br>↳ [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/hwahyeon/class-intro-tf)<br>↳ [Convolutional Neural Networks in TensorFlow](https://github.com/hwahyeon/class-cnn-tf)<br>↳ Natural Language Processing in TensorFlow<br>↳ Sequences, Time Series and Prediction |· Machine Learning<br>· TensorFlow||
