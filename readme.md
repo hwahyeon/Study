@@ -22,7 +22,7 @@
 |001|[WEBn](https://github.com/hwahyeon/opentutorials-web)|· Web development|▶|
 |002|[파이썬을 파이썬답게](https://github.com/hwahyeon/class-pylikepy)<br>&nbsp;&nbsp;**Pythonic Python Programming*|· Pythonic coding|✔️|
 |003|[Hello, JavaScript!](https://github.com/hwahyeon/class-hello-js)|· JavaScript|✔️|
-|004|[Javascript for Beginners](https://github.com/hwahyeon/js-browser)|[Introduction](https://nomadcoders.co/javascript-for-beginners) / [Challenge](https://nomadcoders.co/vanillajs-challenge)<br>· JavaScript|✔️<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|
+|004|[Javascript for Beginners](https://github.com/hwahyeon/js-browser)|[Introduction](https://nomadcoders.co/javascript-for-beginners) / [Challenge](https://nomadcoders.co/vanillajs-challenge)<br>· JavaScript<br>[ⓒ](https://nomadcoders.co/certs/4cfec4d7-7beb-4cf5-b0b9-04d7c63259f4)|✔️|
 |005|[웹 표준 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-stadndard)<br>&nbsp;&nbsp;**Creating a Website with Web Standards (2019)*|· Layout<br>· Menu/Board/Footer<br>· Tabs/Popup<br>· Script|✔️|
 |006|[반응형 사이트 만들기(2019)](https://github.com/hwahyeon/class-wb-responsive)<br>&nbsp;&nbsp;**Creating a Responsive Website*|[Introduction](https://www.youtube.com/watch?v=52TT7SLexxE&list=PL4UVBBIc6giL7ygRa-P7UExEKqZgx4t9K)<br>· Responsive Layout<br>· Header/Menu/Footer<br>· Popup<br>· Side Effects|▶|
 |007|[바닐라 JS로 그림판 만들기](https://github.com/hwahyeon/js-painter)<br>&nbsp;&nbsp;**Building a Drawing Board with Vanilla JS*|· JavaScript<br>· Canvas<br>· 2D Context|✔️|
