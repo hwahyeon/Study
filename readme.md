@@ -28,7 +28,7 @@
 |007|[바닐라 JS로 그림판 만들기](https://github.com/hwahyeon/js-painter)<br>&nbsp;&nbsp;**Building a Drawing Board with Vanilla JS*|· JavaScript<br>· Canvas<br>· 2D Context|✔️|
 |008|[Mouse Effect](https://github.com/hwahyeon/class-wb-mouse)|· JavaScript<br>· Mouse Effect|✔️|
 |009|[CSS Animation](https://github.com/hwahyeon/class-wb-cssani)|· CSS Animtation|✔️|
-|010|[Typescript for Beginners](https://github.com/hwahyeon/class-ts-blockchain)|[Introduction](https://nomadcoders.co/typescript-for-beginners) / [Challenge](https://nomadcoders.co/typescript-challenge)<br>· Typescript<br>· TSConfig<br>· TSNode|✔️<br>[ⓒ](https://nomadcoders.co/certs/d19dbd4f-5b7e-4e1d-a129-67dec33bec9b)|
+|010|[Typescript for Beginners](https://github.com/hwahyeon/class-ts-blockchain)|[Introduction](https://nomadcoders.co/typescript-for-beginners) / [Challenge](https://nomadcoders.co/typescript-challenge)<br>· Typescript<br>· TSConfig<br>· TSNode<br>[ⓒ](https://nomadcoders.co/certs/d19dbd4f-5b7e-4e1d-a129-67dec33bec9b)|✔️|
 |011|[Build a Meme Maker](https://github.com/hwahyeon/js-mememake)|[Introduction](https://nomadcoders.co/javascript-for-beginners-2)<br>· JavaScript<br>· Canvas<br>· 2D Context|✔️|
 |012|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)<br>&nbsp;&nbsp;**Designing Mobile Websites with Figma*|· Figma<br>· Mobile Web|✔️|
 |013|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [Units Converter](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [Movie App](https://github.com/hwahyeon/reactjs-movieapp)|· React<br>· React Router|✔️|
