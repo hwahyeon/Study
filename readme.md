@@ -10,9 +10,9 @@
 |002|[정치학을 위한 파이썬](https://github.com/hwahyeon/book-python-politics)<br>&nbsp;&nbsp;**Python for Political Science*|· Web Scraping/Data collection using API<br>· Visualization & Analysis<br>· Graph|✔️|
 |003|[모두의 알고리즘 with 파이썬](https://github.com/hwahyeon/book-py-algoeveryone)<br>&nbsp;&nbsp;**Algorithm for Everyone with Python*|· Recursive Call<br>· Search and Sort<br>· Data Structures|✔️|
 |004|[학교에서 알려주지 않는 17가지 실무 개발 기술](https://github.com/hwahyeon/book-17skills)<br>&nbsp;&nbsp;**17 Practical Development Skills Not Taught in School*|· Encoding<br>· i18n<br>· UUID<br>· YAML<br>· zlib<br>· Web|▶|
+|006|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/book-learn-algo)<br>&nbsp;&nbsp;**Learning Algorithms*|· Algorithm <br>· Python||
 |009|[이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/hwahyeon/book-pycotest-guide)<br>&nbsp;&nbsp;**Coding Tests for Employment with Python*|· Algorithm <br>· Python||
 <!--|005|[고등학교수학으로이해하는컴퓨터](https://github.com/hwahyeon/book-through-math)<br>&nbsp;&nbsp;**The Understanding Computers through High School Mathematics*|· 컴퓨터과학 <br>· 수학||-->
-<!--|006|[똑똑한 코드 작성을 위한 실전 알고리즘](https://github.com/hwahyeon/book-learn-algo)<br>&nbsp;&nbsp;**Learning Algorithms*|· Algorithm <br>· Python||-->
 <!--|007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/book-html5css3)|· HTML5 / CSS3 <br>· CSS3 변환 및 변형과 애니메이션||-->
 <!--|008|[Do it! 웹 사이트 따라 만들기](https://github.com/hwahyeon/book-doit-website)|· Ajax <br>· CSS Animation <br>· JQuery||-->
 
