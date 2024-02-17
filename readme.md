@@ -33,7 +33,7 @@
 |012|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)<br>&nbsp;&nbsp;**Designing Mobile Websites with Figma*|· Figma<br>· Mobile Web|✔️|
 |013|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [Units Converter](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [Movie App](https://github.com/hwahyeon/reactjs-movieapp)|· React<br>· React Router|✔️|
 |014|Redux for Beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[Introduction](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit|✔️|
-|015|[Learn by Building 10 Hooks](https://github.com/hwahyeon/class-reacthooks10)|[Introduction](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks<br>· npm|▶|
+|015|[Learn by Building 10 Hooks](https://github.com/hwahyeon/class-reacthooks10)|[Introduction](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks<br>· npm|✔️|
 |<br><br><br><br><br>||||
 |012|[React Firebase for Beginners]|[Introduction](https://nomadcoders.co/nwitter)<br>· React<br>· Firebase|▶|
 |012|[YouTube Clone Coding](https://github.com/hwahyeon/short-tube)|[Introduction](https://nomadcoders.co/wetube)<br>· NodeJS<br>· MongoDB<br>· ES6<br>· Express|▶|
