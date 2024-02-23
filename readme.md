@@ -37,11 +37,11 @@
 |<br><br><br>||||
 |012|[React Firebase for Beginners]|[Introduction](https://nomadcoders.co/nwitter)<br>· React<br>· Firebase|▶|
 |012|[YouTube Clone Coding](https://github.com/hwahyeon/short-tube)|[Introduction](https://nomadcoders.co/wetube)<br>· NodeJS<br>· MongoDB<br>· ES6<br>· Express|▶|
-|012|[ES6, ES7 & ES8, TIME to update your JavaScript / ECMAScript!]|[Introduction](https://www.udemy.com/course/es6-es7-and-es8-its-time-to-update-your-javascript/)<br>· ECMAScript||
 |012|[NextJS Fundamentals](https://github.com/hwahyeon/nextjs-movieapp)|[Introduction](https://nomadcoders.co/nextjs-fundamentals)<br>· NextJS 14|▶|
 |012|React Masterclass<br>↳ [CRYPTO TRACKER](https://github.com/hwahyeon/reactjs-cryptotracker)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-todolist)|· TypeScript<br>· Recoil<br>· Framer Motion<br>· Gatsby|▶|
 |020|DeepLearning.AI TensorFlow Developer Professional Certificate<br>↳ [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/hwahyeon/class-intro-tf)<br>↳ [Convolutional Neural Networks in TensorFlow](https://github.com/hwahyeon/class-cnn-tf)<br>↳ Natural Language Processing in TensorFlow<br>↳ Sequences, Time Series and Prediction |· Machine Learning<br>· TensorFlow||
 |020|**Google Machine Learning Bootcamp*<br><br>Deep Learning Specialization<br>↳ Neural Networks and Deep Learning<br>↳ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization<br>↳ Structuring Machine Learning Projects<br>↳ Convolutional Neural Networks<br>↳ Sequence Models|· Deep Learning||
+<!--|012|[ES6, ES7 & ES8, TIME to update your JavaScript / ECMAScript!]|[Introduction](https://www.udemy.com/course/es6-es7-and-es8-its-time-to-update-your-javascript/)<br>· ECMAScript||-->
 <!--|012|Zoom Clone Coding|[Introduction]()<br>· WebSockets<br>· SocketIO<br>· WebRTC||-->
 <!--|021|[씹어먹는 C 언어](https://github.com/hwahyeon/class-modoocode-c)<br>&nbsp;&nbsp;**C Language for Everyone*|· C code optimization||-->
 <!--|002|[Analysis using Fortran](https://github.com/hwahyeon/class-fortran-analysis)|· Fortran<br>· Data analysis||-->
