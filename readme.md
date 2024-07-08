@@ -14,7 +14,6 @@
 |009|[이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/hwahyeon/book-pycotest-guide)<br>&nbsp;&nbsp;**Coding Tests for Employment with Python*|· Algorithm <br>· Python||
 <!--|005|[고등학교수학으로이해하는컴퓨터](https://github.com/hwahyeon/book-through-math)<br>&nbsp;&nbsp;**The Understanding Computers through High School Mathematics*|· Computer Science <br>· Mathematics||-->
 <!--|007|[모던 웹을 위한 HTML5+CSS3 바이블](https://github.com/hwahyeon/book-html5css3)|· HTML5 / CSS3 <br>· CSS3 Transform <br>· CSS Animation||-->
-<!--|008|[Do it! 웹 사이트 따라 만들기](https://github.com/hwahyeon/book-doit-website)|· Ajax <br>· CSS Animation <br>· JQuery||-->
 
 ## Courses
 |No.| Title | Learning Contents | Completed |
@@ -33,6 +32,7 @@
 |012|[피그마로 모바일 웹 만들기](https://github.com/hwahyeon/class-wb-mobile)<br>&nbsp;&nbsp;**Designing Mobile Websites with Figma*|· Figma<br>· Mobile Web|✔️|
 |013|[React for Beginners](https://github.com/hwahyeon/class-reactjs-beginner)<br>↳ [Units Converter](https://github.com/hwahyeon/reactjs-units-conv)<br>↳ [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)<br>↳ [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)<br>↳ [Movie App](https://github.com/hwahyeon/reactjs-movieapp)|· React<br>· React Router|✔️|
 |014|Redux for Beginners<br>↳ [To Do List with Vanilla-Redux](https://github.com/hwahyeon/redux-js-todolist)<br>↳ [To Do List with React-Redux](https://github.com/hwahyeon/redux-react-todolist)|[Introduction](https://nomadcoders.co/redux-for-beginners)<br>· Redux<br>· Redux Toolkit|✔️|
+|015|[Intermediate Web and Front-End Development](https://github.com/hwahyeon/ibm-int-web-frontend)|[Introduction](https://www.coursera.org/learn/intermediate-web-and-front-end-development)<br>· SEO<br>· Webpack<br>· JavaScript Optimization<br>· Testing<br>· Debugging|✔️|
 |<br><br><br>||||
 |015|[Learn by Building 10 Hooks](https://github.com/hwahyeon/class-reacthooks10)|[Introduction](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks<br>· npm|▶|
 |012|[React Firebase for Beginners]|[Introduction](https://nomadcoders.co/nwitter)<br>· React<br>· Firebase|▶|
