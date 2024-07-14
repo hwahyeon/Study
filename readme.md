@@ -35,7 +35,7 @@
 |015|[Intermediate Web and Front-End Development](https://github.com/hwahyeon/ibm-int-web-frontend)|[Introduction](https://www.coursera.org/learn/intermediate-web-and-front-end-development)<br>· SEO<br>· Webpack<br>· JavaScript Optimization<br>· Testing<br>· Debugging|✔️|
 |<br><br><br>||||
 |015|[Learn by Building 10 Hooks](https://github.com/hwahyeon/class-reacthooks10)|[Introduction](https://nomadcoders.co/react-hooks-introduction)<br>· React Hooks<br>· npm|▶|
-|012|[React Firebase for Beginners]|[Introduction](https://nomadcoders.co/nwitter)<br>· React<br>· Firebase|▶|
+|012|[React Firebase for Beginners]()|[Introduction](https://nomadcoders.co/nwitter)<br>· React<br>· Firebase|▶|
 |012|[YouTube Clone Coding](https://github.com/hwahyeon/short-tube)|[Introduction](https://nomadcoders.co/wetube)<br>· NodeJS<br>· MongoDB<br>· ES6<br>· Express|▶|
 |012|[NextJS Fundamentals](https://github.com/hwahyeon/mini-movie-12)|[Introduction](https://nomadcoders.co/nextjs-fundamentals)<br>· NextJS 12|▶|
 |012|[NextJS 14 For Beginners](https://github.com/hwahyeon/mini-movie-14)|[Introduction](https://nomadcoders.co/nextjs-for-beginners)<br>· NextJS 14|▶|
